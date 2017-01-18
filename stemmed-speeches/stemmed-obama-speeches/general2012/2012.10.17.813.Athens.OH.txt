@@ -1,0 +1,297 @@
+the presid __PUNCT__
+hello __PUNCT__ ohio __PUNCT__ how it go __PUNCT__ bobcat __PUNCT__ ar you fire up __PUNCT__ ar you readi to go __PUNCT__ boi __PUNCT__ thi is a good crowd __PUNCT__
+it a big crowd and a good __PUNCT__ look crowd __PUNCT__
+the weather is perfect __PUNCT__
+who arrang the weather __PUNCT__ audienc member __PUNCT__
+__PUNCT__ inaud __PUNCT__ the presid __PUNCT__
+good job __PUNCT__
+__PUNCT__ laughter __PUNCT__ can everybodi pleas give a big round of applaus for shannon for the great introduct __PUNCT__ pleas give a round of applaus to my great friend __PUNCT__ your former governor __PUNCT__ ted strickland is in the hous __PUNCT__
+and your outstand mayor __PUNCT__ paul wiehl __PUNCT__ is here __PUNCT__
+and of cours __PUNCT__ all of you ar here __PUNCT__
+i came here todai becaus i heard you got a pretti fun footbal team to watch __PUNCT__
+undef __PUNCT__ if i not mistaken __PUNCT__
+a shot at the mac championship __PUNCT__
+mayb a bc bid __PUNCT__
+i just want to point out that i wa push for a playoff system __PUNCT__ we got a playoff system __PUNCT__
+on more promis kept __PUNCT__ for those of you who ar follow colleg footbal __PUNCT__
+__PUNCT__ laughter __PUNCT__ but it is outstand the bobcat ar do so well __PUNCT__ so i want to wish you gui luck in the upcom season __PUNCT__
+i also came here todai __PUNCT__ ohio __PUNCT__ becaus i want your vote __PUNCT__
+__PUNCT__ applaus __PUNCT__ i want your vote __PUNCT__
+i am not too proud to beg __PUNCT__
+i want you to vote __PUNCT__
+and the good new is __PUNCT__ you can vote in ohio right now __PUNCT__
+find out where at __URL__
+if you live nearbi __PUNCT__ you can vote just a few block awai at __NUM__ south court street __PUNCT__
+__PUNCT__ applaus __PUNCT__ __NUM__ south court street __PUNCT__
+everybodi know where that is __PUNCT__
+if not __PUNCT__ find out __PUNCT__
+i know a bunch of folk ar meet there at __NUM__ p.m __PUNCT__ tomorrow to vote togeth __PUNCT__
+so what do you sai __PUNCT__ ohio __PUNCT__ can you grab some friend __PUNCT__ go vote __PUNCT__ go vote __PUNCT__
+see __PUNCT__ my assumpt is if you here __PUNCT__ you go to vote __PUNCT__
+so you got to go back to your dorm __PUNCT__ grab that gui who sit there eat chip __PUNCT__ watch sportscent __PUNCT__
+__PUNCT__ laughter __PUNCT__ tell him he got to vote too __PUNCT__
+audienc member __PUNCT__
+i love you __PUNCT__ barack __PUNCT__ the presid __PUNCT__
+i love you back __PUNCT__
+now __PUNCT__ we had our second presidenti debat last night __PUNCT__
+i still try to get the hang of thi thing __PUNCT__
+__PUNCT__ laughter __PUNCT__ but there ar a coupl of thing that i notic that keep on recur in thi debat and dure the cours of thi campaign __PUNCT__
+governor romnei continu to run around talk about hi five __PUNCT__ point plan for the economi __PUNCT__
+audienc member __PUNCT__
+boo __PUNCT__ the presid __PUNCT__
+wait __PUNCT__ wait __PUNCT__ wait __PUNCT__
+don't boo __PUNCT__ vote __PUNCT__
+but as we saw last night __PUNCT__ the five __PUNCT__ point plan realli boil down to on point __PUNCT__ folk at the veri top get to plai by a differ set of rule than you do __PUNCT__
+so thei can pai lower tax __PUNCT__
+thei can us offshor account __PUNCT__
+thei can bui a compani __PUNCT__ load it up with debt __PUNCT__ lai off the worker __PUNCT__ strip awai the pension __PUNCT__ send the job oversea __PUNCT__ and still make a big profit do it __PUNCT__
+it the same philosophi that been squeez middl class famili for over a decad __PUNCT__
+it the same philosophi that got us into thi mess __PUNCT__
+and i have seen too much pain and struggl here in ohio and all across the countri to let us go down that path again __PUNCT__
+we cannot grow thi economi from the top down __PUNCT__
+we grow it from the middl out __PUNCT__
+we not go backward __PUNCT__ we go forward __PUNCT__
+that why i run for a second term for presid __PUNCT__ and that why i want your vote __PUNCT__
+so he try to sell you on thi five __PUNCT__ point plan __PUNCT__
+then __PUNCT__ he tri to take anoth stab at try to sell you on hi __MONEY__ trillion tax cut that favor the wealthi __PUNCT__
+he sai __PUNCT__ it not go to rais the deficit __PUNCT__ i go to lower tax for middl class folk __PUNCT__
+we not go to __PUNCT__ in ani wai __PUNCT__ give a tax break to the well __PUNCT__ to __PUNCT__ do folk __PUNCT__ even though he said dure the republican primari he wa go to cut tax for the top __NUM__ percent __PUNCT__
+then __PUNCT__ when you ask him __PUNCT__ all right __PUNCT__ if you go to pai for all thi __PUNCT__ how ar you go to pai for it __PUNCT__ couldn't tell you __PUNCT__ said he wa go to pai for it by cut plan parenthood and big bird __PUNCT__
+audienc member __PUNCT__
+no __PUNCT__ the presid __PUNCT__
+that what he said __PUNCT__
+and then __PUNCT__ when you keep on press him __PUNCT__ he sai __PUNCT__ i said i wa go to do it __PUNCT__
+i wa a businessman __PUNCT__ so you should just take my word for it __PUNCT__
+now __PUNCT__ here a tip __PUNCT__ when a politician tell you that he go to tell you what he go to do after the elect __PUNCT__ but he can't tell you now __PUNCT__ it not becaus the plan is so good that he doesn't want to let you in on it __PUNCT__
+it not becaus he want to give you thi great surpris later on __PUNCT__
+it becaus he know it won't work __PUNCT__
+everybodi who ha look at thi tax plan of hi sai he can't pai for it without either blow up the deficit or by rais tax on middl class famili __PUNCT__
+audienc member __PUNCT__
+boo __PUNCT__ the presid __PUNCT__
+don't boo __PUNCT__ audienc member __PUNCT__
+vote __PUNCT__ the presid __PUNCT__
+vote __PUNCT__
+so then __PUNCT__ governor romnei sai __PUNCT__ well __PUNCT__ i got a plan to creat __NUM__ million job in the next __NUM__ year __PUNCT__
+audienc member __PUNCT__
+in china __PUNCT__
+__PUNCT__ laughter __PUNCT__ the presid __PUNCT__
+my gui here said __PUNCT__ in china __PUNCT__
+__PUNCT__ laughter __PUNCT__ now __PUNCT__ when folk start go through these number __PUNCT__ hi job plan fell apart even faster than hi tax plan __PUNCT__
+the washington post call it bait and switch __PUNCT__ bait and switch __PUNCT__
+i mean __PUNCT__ here a gui whose __PUNCT__ part of hi tax plan is to give tax break to compani that ar ship job oversea __PUNCT__
+he invest in compani that were call __PUNCT__ pioneer __PUNCT__ of outsourc __PUNCT__
+doe that sound like a __NUM__ million job plan to you __PUNCT__ audienc member __PUNCT__
+no __PUNCT__ the presid __PUNCT__
+that the right answer __PUNCT__
+__PUNCT__ laughter __PUNCT__ so let recap here __PUNCT__
+he got a tax plan that doesn't add up __PUNCT__
+he got a job plan that doesn't creat job __PUNCT__
+he got a deficit plan that doesn't reduc the deficit __PUNCT__
+you heard of the new deal __PUNCT__ ohio __PUNCT__
+you heard of the fair deal __PUNCT__
+mitt romnei try to sell you a sketchi deal __PUNCT__
+but we not bui it __PUNCT__
+we know better __PUNCT__ becaus thi is the same sketchi deal that we were sold back in the previou administr __PUNCT__
+we tri it __PUNCT__
+it didn't work __PUNCT__
+we not go back __PUNCT__
+we move forward __PUNCT__
+i need you to finish what we start __PUNCT__
+that why i ask for your vote __PUNCT__
+that why i run for a second term as presid of the unit state of america __PUNCT__
+audienc member __PUNCT__
+four more year __PUNCT__ four more year __PUNCT__ four more year __PUNCT__ the presid __PUNCT__
+now __PUNCT__ then __PUNCT__ last night the issu of keep promis came up __PUNCT__
+so i had to remind peopl __PUNCT__ __NUM__ year ago __PUNCT__ i promis to end the war in iraq __PUNCT__ and i did __PUNCT__
+i said we end the war in afghanistan __PUNCT__ and we ar __PUNCT__
+i said we refocu on the terrorist who actual attack us on 9/11 __PUNCT__ and bin laden is dead __PUNCT__
+four year ago __PUNCT__ i promis to cut tax for middl class famili __PUNCT__ and we have __PUNCT__ by __MONEY__
+i promis to cut tax for small __PUNCT__ busi owner __PUNCT__ and we have __NUM__ time __PUNCT__
+i said we put an end to taxpay __PUNCT__ fund bailout __PUNCT__
+we got everi dime back that we us to rescu the bank __PUNCT__ and we pass a law to end those bailout for good __PUNCT__
+as shannon just told you __PUNCT__ i promis to pass health reform so that your insur compani can't jerk you around __PUNCT__
+so that young peopl can stai on their parent plan until thei __NUM__ __PUNCT__
+so that peopl with preexist condit can get health insur __PUNCT__
+so that women aren't be charg for men for the same insur __PUNCT__
+i promis we repeal __PUNCT__ don't ask __PUNCT__ don't tell __PUNCT__ becaus my attitud is anybodi who will to serv our militari and sacrific for us __PUNCT__ it shouldn't matter who thei love __PUNCT__
+when governor romnei said we should let detroit go bankrupt __PUNCT__ we said __PUNCT__ thank __PUNCT__ but no thank __PUNCT__
+we won't take your vast busi advic __PUNCT__
+we go to support the auto industri __PUNCT__
+we go to bet on american worker and __PUNCT__ becaus we knew that on in eight ohio job is support by the auto industri __PUNCT__
+and that industri ha come roar back to the top of the world __PUNCT__
+four year ago __PUNCT__ i said i would do everyth i could __PUNCT__ everi singl dai __PUNCT__ to dig us out of the hole we were left __PUNCT__
+and becaus of the incred resili of the american peopl __PUNCT__ __NUM__ year after the worst econom crisi of our lifetim __PUNCT__ we ar move forward again __PUNCT__
+we were lose __NUM__ job a month __PUNCT__
+now we ad more than __NUM__ million new job __PUNCT__ more manufactur job than ani time sinc the 1990 __PUNCT__
+the unemploy rate ha fallen from __NUM__ percent to __NUM__ percent __PUNCT__
+foreclosur ar their lowest in __NUM__ year __PUNCT__
+home valu ar on the rise __PUNCT__
+stock market ha doubl __PUNCT__
+manufactur is come back __PUNCT__
+assembl line ar put folk back to work __PUNCT__
+that what we been fight for __PUNCT__
+those ar the promis i kept __PUNCT__
+now __PUNCT__ for all the progress we made __PUNCT__ we got more work to do __PUNCT__
+there ar too mani folk out there still look for work __PUNCT__
+there ar too mani folk out there who ar still have troubl pai the bill __PUNCT__
+and that why we got to keep move forward to build on what we alreadi done __PUNCT__
+yesterdai i talk about a concret __PUNCT__ specif plan to creat job __PUNCT__ to creat more secur for the middl class __PUNCT__
+it start __PUNCT__ number on __PUNCT__ with build on the manufactur progress we alreadi made __PUNCT__
+let stop outsourc job __PUNCT__
+let export product stamp with three proud word __PUNCT__ made in america __PUNCT__
+that what we need to do __PUNCT__
+so mitt romnei want to keep give those tax break to compani that ar ship job oversea __PUNCT__
+i want to end them __PUNCT__ i want to invest in compani that ar build right here __PUNCT__ build plant __PUNCT__ hire worker __PUNCT__ make product in athen __PUNCT__ in ohio __PUNCT__ in the unit state of america __PUNCT__
+you can make that happen __PUNCT__
+i want to control our own energi __PUNCT__
+you know __PUNCT__ after __NUM__ year where we hadn't done anyth __PUNCT__ we ar now go to be produc car that by the middl of the next decad will go twice as far on a gallon of ga __PUNCT__ which mean that save you monei __PUNCT__ but it also mean we ar reduc our depend on foreign oil __PUNCT__
+and we also invest in the energi sourc of tomorrow __PUNCT__ wind and solar and biofuel __PUNCT__ clean coal technolog __PUNCT__
+todai america is less depend on foreign oil than at ani time in two decad __PUNCT__
+so governor romnei want to revers thi progress __PUNCT__ we want to build on it __PUNCT__
+instead of give __PUNCT__ we give __MONEY__ billion a year to oil compani __PUNCT__ corpor welfar __PUNCT__
+you pai for it __PUNCT__
+thei alreadi make monei everi time you go to the pump __PUNCT__
+so i sai let take that monei __PUNCT__ i don't want china to win the race for new technolog and new energi __PUNCT__
+let invest here in the unit state in develop that technolog __PUNCT__
+and by the wai __PUNCT__ we can __PUNCT__ by do thi __PUNCT__ we can also reduc the problem of carbon pollut and we can still invest in clean coal technolog __PUNCT__
+i wa listen to governor romnei yesterdai talk about how he a champion of coal __PUNCT__
+when he wa a governor __PUNCT__ stood in front of a coal __PUNCT__ fire plant and said __PUNCT__ thi plant kill peopl __PUNCT__
+and now he run around talk like he mr __PUNCT__ coal __PUNCT__
+__PUNCT__ laughter __PUNCT__ come on __PUNCT__
+come on __PUNCT__
+you know that not on the level __PUNCT__
+doe anybodi actual look at that gui and think __PUNCT__ man __PUNCT__ he realli into coal __PUNCT__ laughter __PUNCT__ did you see when he wa do that ad __PUNCT__ he in front of all these miner with hard hat __PUNCT__
+found out later __PUNCT__ thei had to come __PUNCT__ boss made them come __PUNCT__
+__PUNCT__ laughter __PUNCT__ come on __PUNCT__
+got to be on the level if you want to be presid of the unit state __PUNCT__
+i want to give more american the chanc to learn the skill thei need in the __NUM__ __PUNCT__ centuri economi __PUNCT__
+look __PUNCT__ i onli here becaus i got a good educ __PUNCT__
+i wasn't born into fame or fortun __PUNCT__ and nobodi wa pick __PUNCT__ boi __PUNCT__ that gui barack obama __PUNCT__ he go to be presid somedai __PUNCT__
+__PUNCT__ laughter __PUNCT__ but i got a great educ __PUNCT__
+kid of a __PUNCT__ my mom wa a singl mom __PUNCT__ she work her wai through school try to rais me and my sister __PUNCT__
+but in america __PUNCT__ we give everybodi an opportun __PUNCT__
+that what thi countri is about __PUNCT__
+and i never forgotten that __PUNCT__
+so on of the first thing we did wa to make sure let stop give bank and lender billion of dollar as middlemen for the student loan program __PUNCT__
+let cut out the middlemen and give the monei directli to student __PUNCT__
+that how we kept your student loan interest rate low __PUNCT__
+that how we expand pell grant __PUNCT__
+that why we set up a system where student __PUNCT__ if thei have debt __PUNCT__ thei never go to have to pai more than __NUM__ percent of their incom __PUNCT__
+if thei choos to becom a teacher or do someth that doesn't pai a lot of monei __PUNCT__ thei can still manag the debt from get an outstand educ __PUNCT__
+so now you got a choic __PUNCT__ ohio __PUNCT__
+governor romnei __PUNCT__ he sai hire more teacher __PUNCT__ that doesn't help the economi grow __PUNCT__
+you know what __PUNCT__ he wrong __PUNCT__
+it will __PUNCT__
+and think about all those kid right now who ar in overcrowd classroom or don't have a comput scienc lab __PUNCT__ thei onli go to be in third grade onc or junior in high school onc __PUNCT__
+if thei miss those opportun now __PUNCT__ thei mai not make it up later __PUNCT__
+so we could __PUNCT__ you can take governor romnei advic and give a __MONEY__ trillion tax cut and pai for it by cut educ or __PUNCT__ audienc member __PUNCT__
+boo __PUNCT__ the presid __PUNCT__
+don't boo __PUNCT__ audienc member __PUNCT__
+vote __PUNCT__ the presid __PUNCT__
+vote __PUNCT__
+or we can recruit __NUM__ new math and scienc teacher __PUNCT__ put them to work right now __PUNCT__
+that where the job ar of the futur __PUNCT__
+it should be a nation mission to make sure that all our young peopl ar get an educ in some of these field where we know there ar go to be job __PUNCT__
+and by the wai __PUNCT__ we want our son in that __PUNCT__ but we also want our daughter __PUNCT__
+i don't know if you were listen last night __PUNCT__ but __PUNCT__ see __PUNCT__ we don't have to order up some binder __PUNCT__ laughter __PUNCT__ to find qualifi __PUNCT__ talent __PUNCT__ driven young women to learn and teach and thrive and start busi __PUNCT__
+and when these young women graduat __PUNCT__ we should make a veri simpl concept the rule __PUNCT__ equal pai for equal work __PUNCT__
+__PUNCT__ applaus __PUNCT__ equal pai for equal work __PUNCT__
+i got two daughter __PUNCT__
+i don't want them paid less than a man for do the same job __PUNCT__
+and by the wai __PUNCT__ men out there __PUNCT__ you don't want your wive paid less than a man for the same job __PUNCT__
+so thi isn't just a women issu __PUNCT__
+thi is a famili issu __PUNCT__
+thi is a middl class issu __PUNCT__
+governor romnei __PUNCT__ for month __PUNCT__ refus to sai if he support the law that we sign that said equal pai for equal work __PUNCT__
+just todai hi campaign admit __PUNCT__ well __PUNCT__ he never weigh in on that __PUNCT__
+why not __PUNCT__ what so hard about weigh in on that __PUNCT__ do you believ in equal pai for equal work __PUNCT__ or you don't __PUNCT__ i weigh in on it __PUNCT__ becaus that wa the first bill that i sign __PUNCT__ the lilli ledbett fair pai act __PUNCT__ to make it easier for women to enforc their right to get equal pai for equal work __PUNCT__
+i want to take some of the monei that we ar save from end the war in iraq and transit in afghanistan to pai down our deficit and put our folk to work right here do some nation __PUNCT__ build here at home __PUNCT__ build road and bridg and school __PUNCT__
+the next debat on mondai is go to be about foreign polici __PUNCT__
+it will be interest to hear what governor romnei ha to sai __PUNCT__
+he said he thought it wa __PUNCT__ tragic __PUNCT__ the wai we end the war in iraq __PUNCT__
+he said __PUNCT__ doubl down on thi __PUNCT__ said we should still have troop in iraq __PUNCT__
+just said thi a coupl week ago __PUNCT__
+i think that wa a mistak __PUNCT__
+i think bring our troop home __PUNCT__ after all the sacrific thei made in a distant countri __PUNCT__ all the sacrific their famili have made __PUNCT__ it is time to make sure that we do some nation __PUNCT__ build here at home __PUNCT__
+that what i believ __PUNCT__
+and when our troop do come home and take off those uniform __PUNCT__ thei need to know as long as i your command in chief __PUNCT__ we will sustain the strongest militari in the world and we will also make sure those troop get serv as well as thei serv us __PUNCT__
+nobodi who fought for thi countri should ever have to fight for a job __PUNCT__ or a roof over their head __PUNCT__ or the health care thei earn when thei come home __PUNCT__
+that shouldn't happen __PUNCT__
+__PUNCT__ applaus __PUNCT__ that shouldn't happen __PUNCT__
+and final __PUNCT__ we need to cut the deficit and the debt __PUNCT__
+i know you __PUNCT__ the other side __PUNCT__ thei put up a lot of ad __PUNCT__
+thei think that you forgotten the fact that thei fought two war on a credit card and two tax cut on a credit card and didn't pai for anyth __PUNCT__ said deficit didn't matter __PUNCT__
+thei like the gui who show up at a restaur __PUNCT__ order a big steak __PUNCT__ ha a big drink __PUNCT__ order a big piec of pie __PUNCT__ then leav befor pai the tab __PUNCT__
+and then thei sai __PUNCT__ oh __PUNCT__ look __PUNCT__ look at what obama did __PUNCT__
+it like __PUNCT__ what __PUNCT__ laughter __PUNCT__ you all had noth to do with it __PUNCT__
+but look __PUNCT__ we got to do someth about it __PUNCT__
+so what i said __PUNCT__ look __PUNCT__ i alreadi work with republican and democrat to cut a trillion dollar in spend __PUNCT__
+i readi to do more __PUNCT__
+but we can't get it done just by cut educ program or cut basic research program that help us grow our economi __PUNCT__
+so what i said is if we do some cut __PUNCT__ let also make sure the wealthiest household pai a littl bit more __PUNCT__ pai higher tax after your first __MONEY__ worth of incom __PUNCT__ go back to the rate bill clinton had when we creat __NUM__ million new job __PUNCT__ when we went from deficit to surplu __PUNCT__
+governor romnei ha some differ idea __PUNCT__
+he wa ask on __PUNCT__ __NUM__ minut __PUNCT__ some of you mai have seen thi __PUNCT__ is it fair for you __PUNCT__ make __MONEY__ million a year __PUNCT__ to pai a lower tax rate than a teacher make __MONEY__ audienc member __PUNCT__
+no __PUNCT__ the presid __PUNCT__
+well __PUNCT__ that your answer __PUNCT__ but that not hi answer __PUNCT__
+he said __PUNCT__ ye __PUNCT__ i think that fair __PUNCT__ said that how you grow an economi __PUNCT__ that how we alloc capit __PUNCT__
+i sai __PUNCT__ well __PUNCT__ no __PUNCT__ i actual think it not fair __PUNCT__ especi when we got to reduc the deficit __PUNCT__
+and i not go to ask middl class famili to give up their deduct for own a home __PUNCT__ or rais their kid just to pai for anoth millionair tax cut __PUNCT__
+i not go to pai for that tax cut by make all the student here pai more for colleg or kick kid off of head start or elimin health insur for million of american who ar elderli or poor or disabl __PUNCT__
+i not go to turn medicar into a voucher system __PUNCT__
+we not go to privat social secur __PUNCT__
+we got to make choic __PUNCT__ but let make sure everybodi ha to make some sacrific __PUNCT__ not just a few __PUNCT__
+that the choic you got to make in thi elect __PUNCT__
+our oppon __PUNCT__ thei alwai tell us __PUNCT__ well __PUNCT__ govern can't do everyth __PUNCT__
+you want trickl __PUNCT__ down govern __PUNCT__ that wa the phrase he been us __PUNCT__
+no __PUNCT__ i don't __PUNCT__
+i believ in free enterpris __PUNCT__
+i believ everi on of the young peopl here __PUNCT__ thei go to have to work for their success __PUNCT__
+thei go to have to earn it __PUNCT__
+i don't believ in handout __PUNCT__
+but i also believ in a countri where everybodi ha got a shot __PUNCT__ where everybodi ha opportun __PUNCT__
+these folk __PUNCT__ thei got a you __PUNCT__ on __PUNCT__ your __PUNCT__ own philosophi __PUNCT__
+can't afford health insur __PUNCT__ hope you don't get sick __PUNCT__
+can't afford to start a busi or go to colleg __PUNCT__ borrow monei from your parent __PUNCT__
+__PUNCT__ laughter __PUNCT__ that not what built thi countri __PUNCT__
+i talk last night about the fact __PUNCT__ you know __PUNCT__ my grandfath __PUNCT__ he fought in patton armi in world war ii __PUNCT__
+he never __PUNCT__ he hadn't gone to colleg __PUNCT__ right out of high school he join the armi __PUNCT__ part of that greatest gener __PUNCT__
+when he came home __PUNCT__ he wa given a gi bill __PUNCT__ a chanc to go to colleg __PUNCT__
+and that wasn't a handout __PUNCT__
+that wasn't just good for him __PUNCT__ that wa good for the whole countri __PUNCT__ becaus suddenli __PUNCT__ the whole countri got a better educ __PUNCT__ and the whole countri saw it incom rise __PUNCT__ and the whole countri saw busi grow __PUNCT__
+the whole countri prosper __PUNCT__
+the whole countri succeed __PUNCT__
+that the america we believ in __PUNCT__
+we believ in do thing for ourselv __PUNCT__ but we also believ in do some thing togeth to make sure thi countri succe __PUNCT__
+and that what the last campaign wa about in __NUM__ __PUNCT__
+that what thi on is about __PUNCT__
+but it onli happen becaus of you __PUNCT__
+you the reason we got a factori worker in toledo or lordstown who lost hi job but now is back on the line build great car __PUNCT__
+you did that __PUNCT__
+you the reason student in akron or columbu or right here at ohio univers __PUNCT__ can get some help pai for their colleg __PUNCT__
+you the reason why a veteran come home suddenli ha got a new gi bill that allow them to have a brighter futur __PUNCT__
+you the reason some young immigr who grew up here and pledg allegi to our flag is not go to be deport from the onli countri she ever known __PUNCT__
+you the reason that those who serv us so brave can final hear those magic word and hug their love on and hear them sai __PUNCT__ welcom home __PUNCT__
+__PUNCT__ applaus __PUNCT__ welcom home __PUNCT__
+welcom home __PUNCT__
+that happen becaus of you __PUNCT__
+and onli you have got the power to keep us move forward __PUNCT__
+i can't do it by myself __PUNCT__
+i need you __PUNCT__
+i onli in washington becaus of you __PUNCT__
+so you can choos the other gui __PUNCT__ who want to reinstitut the top __PUNCT__ down polici that got us into thi mess __PUNCT__ or you can help us move forward with the polici that ar get us out of thi mess __PUNCT__
+you can choos a foreign polici that got us into war with no plan of get out __PUNCT__ or you can sai __PUNCT__ no __PUNCT__ we go to turn the page __PUNCT__
+we go to end the afghan war respons __PUNCT__
+we go to bring our troop home __PUNCT__
+we go to focu on the terrorist who would actual do us harm __PUNCT__
+you can turn back the clock on __NUM__ year of progress for women and immigr and gai and lesbian __PUNCT__ or you can stand up and sai __PUNCT__ no __PUNCT__ i want to move forward __PUNCT__
+in thi elect __PUNCT__ you can sai i want an america to remain a countri where no matter what you look like __PUNCT__ no matter where you come from __PUNCT__ no matter who you ar __PUNCT__ who you love __PUNCT__ black __PUNCT__ white __PUNCT__ hispan __PUNCT__ asian __PUNCT__ nativ american __PUNCT__ gai __PUNCT__ straight __PUNCT__ abl __PUNCT__ disabl __PUNCT__ it doesn't matter __PUNCT__ we all american __PUNCT__ and we go to move forward togeth __PUNCT__
+that what at stake in thi elect __PUNCT__
+that why i ask for your vote __PUNCT__
+that why i here todai __PUNCT__ ohio __PUNCT__
+i believ in you __PUNCT__ and i need you to keep on believ in me so i can finish the job that we start __PUNCT__
+and if we win __PUNCT__ and if you will to make some phone call __PUNCT__ and knock on some door with me __PUNCT__ we win ohio again __PUNCT__
+we win thi elect again __PUNCT__
+we finish what we start __PUNCT__
+we remind the world why the unit state of america is the greatest nation on earth __PUNCT__
+thank you __PUNCT__ ohio __PUNCT__ i love you __PUNCT__
+thank you __PUNCT__

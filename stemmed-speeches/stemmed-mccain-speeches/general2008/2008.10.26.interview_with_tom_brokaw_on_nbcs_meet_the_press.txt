@@ -1,0 +1,501 @@
+brokaw __PUNCT__ senat __PUNCT__ welcom back to meet the press __PUNCT__
+sen __PUNCT__
+john mccain __PUNCT__ r __PUNCT__ az __PUNCT__ well __PUNCT__ thank __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ it been a while __PUNCT__
+i know you been busi __PUNCT__ but it good to have you back here again __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ well __PUNCT__ thank you __PUNCT__
+i notic you mention __PUNCT__ nine month __PUNCT__
+i think i still have been more appear on meet the press than anybodi els __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ i think that true __PUNCT__ except mayb bob dole probabl got a few more than you __PUNCT__
+but he got a few year on you __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ still time to catch up __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ listen __PUNCT__ i __PUNCT__ i don't have the most encourag new for you todai from the nbc news/mason dixon poll __PUNCT__
+here in iowa __PUNCT__ it now show that obama ha a lead of __NUM__ point __PUNCT__ __NUM__ to __NUM__ point __PUNCT__ percent __PUNCT__
+four year ago __PUNCT__ as you know __PUNCT__ georg bush won thi state __PUNCT__
+it been determin a battleground state __PUNCT__
+but the lead ha been widen for senat obama right along the wai __PUNCT__
+i know you a film buff __PUNCT__ so let me begin with a film metaphor __PUNCT__
+do you feel more like kevin costner in the __PUNCT__ field of dream __PUNCT__ or like georg cloonei at the __PUNCT__ at the tiller of the ship in __PUNCT__ a perfect storm __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ i __PUNCT__ i think that i could draw my own __PUNCT__ and i have to think of it __PUNCT__ mayb __PUNCT__ mayb __PUNCT__ the gipper __PUNCT__
+i feel like when __PUNCT__ i feel like knute rockn when __PUNCT__ at halftim when he said __PUNCT__ you go out there and get on for the gipper __PUNCT__
+and look __PUNCT__ those poll have been consist shown me much further behind than we actual ar __PUNCT__
+it all depend on the voter turnout model __PUNCT__
+and __PUNCT__ and everybodi get bore except for us junki about the process and aught __PUNCT__
+we do fine __PUNCT__
+we have close in the last week __PUNCT__
+we continu thi close through next week __PUNCT__ you go to be up veri __PUNCT__ veri late on elect night __PUNCT__
+we ar veri competit in mani of the battleground state __PUNCT__ and i see these poll rang from a __NUM__ point gap todai in zogbi to your __NUM__ point on __PUNCT__
+and thei all over the map __PUNCT__ and __PUNCT__ obvious __PUNCT__ i choos to trust my sens as well as poll __PUNCT__
+and the enthusiasm at almost all of our campaign event is at a higher level that i ever seen __PUNCT__
+and i been in a lot of presidenti campaign __PUNCT__ usual as the warm __PUNCT__ up act or __PUNCT__ you know __PUNCT__ on of those thing __PUNCT__
+and i see intens out there and i see passion __PUNCT__
+so we veri competit here __PUNCT__ and i veri happi with where we ar and i veri proud of the campaign that i run __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ senat __PUNCT__ in the last of the presidenti debat moder by bob schieffer __PUNCT__ you drew greater distinct between yourself and georg bush __PUNCT__
+you said __PUNCT__ i am not georg bush __PUNCT__
+and then thi past week in the washington time __PUNCT__ a newspap in washington __PUNCT__ thi wa the account __PUNCT__ senat john mccain blast presid bush for build a mountain of debt for futur gener __PUNCT__ fail to pai for expand medicar __PUNCT__ and abus execut power __PUNCT__ level hi strongest critic to date of the administr whose unpopular mai be drag the republican parti to the brink of a massiv elector defeat __PUNCT__
+__PUNCT__ __SYMBOL__ we just let thing get complet out of hand __PUNCT__ he said of hi own parti rule in the last eight year __PUNCT__
+but then we have an account of you on meet the press go back to __DATE__ __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ ye __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ and thi is what you had to sai about your relationship with presid bush at that time __PUNCT__
+__PUNCT__ videotap __PUNCT__ __DATE__ __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ the fact is that i differ __PUNCT__ but the fact is that i have agre with presid bush far more than i have disagre __PUNCT__
+and on the transcend issu __PUNCT__ the most import issu of our dai __PUNCT__ i have been total in agreement and support of presid bush __PUNCT__
+so i strongli disagre with ani assert that i been more at odd with the presid of the unit state than i have been in agreement with __PUNCT__
+__PUNCT__ end videotap __PUNCT__ videotap __PUNCT__ __DATE__ __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ well __PUNCT__ i veri honor and humbl to have the opportun to receiv the endors of the presid of the unit state __PUNCT__ a man who i have great admir __PUNCT__ respect and affect __PUNCT__
+i intend to have as much possibl campaign event and __PUNCT__ togeth as __PUNCT__ in keep with the presid heavi schedul __PUNCT__ and i look forward to that opportun __PUNCT__
+__PUNCT__ end videotap __PUNCT__ mr __PUNCT__
+brokaw __PUNCT__ senat mccain __PUNCT__ both in tone and languag __PUNCT__ you ar veri close with presid bush in those appear __PUNCT__
+the congression quarterli did a review of your vote __PUNCT__ __NUM__ percent of the time you vote with presid bush __PUNCT__
+so it a littl hard for the public to separ you from thi administr __PUNCT__ isn't it __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ well __PUNCT__ it mai be the wai you describ it __PUNCT__
+and __PUNCT__ by the wai __PUNCT__ the last interview that i did with the washington time __PUNCT__ of cours i been repeat for the last eight year that the spend wa out of control __PUNCT__
+that why i vote against these project __PUNCT__ these pork barrel spend __PUNCT__
+i wa the harshest critic of the fail strategi in iraq and point it out in hear after hear and fought against it __PUNCT__
+i support action to address climat chang __PUNCT__ from __PUNCT__ sinc __NUM__ and said we got to do someth about it __PUNCT__
+there were sharp disagr there __PUNCT__
+there were a number of disagr on gener overal philosophi __PUNCT__
+i am a republican __PUNCT__
+i respect the presid of the unit state __PUNCT__
+of cours we let spend get complet out of control __PUNCT__ and i been talk about it for a long __PUNCT__ long period of time __PUNCT__
+now __PUNCT__ i know how it is on thi show __PUNCT__
+you show variou segment and comment that we make thousand of __PUNCT__ and i understand that __PUNCT__
+but the fact is i am not georg bush __PUNCT__
+the fact is that i wa not popular within my own parti __PUNCT__
+the fact is that when i said that we were fail in iraq and we were go to lose __PUNCT__ i wa critic by republican __PUNCT__
+the fact is when i did campaign financ reform with russ feingold __PUNCT__ i wa oppos by my own parti and my own presid __PUNCT__
+so do we share a common philosophi of the republican parti __PUNCT__ of cours __PUNCT__
+but i __PUNCT__ i stood up against my parti __PUNCT__ not just presid bush __PUNCT__ but other __PUNCT__ and i got the scar to prove it __PUNCT__ includ take up __PUNCT__ with ted kennedi __PUNCT__ immigr reform __PUNCT__ know full well that that wa go to hurt my chanc in the primari __PUNCT__
+so i could go down a long list of issu with you __PUNCT__
+do i respect presid bush __PUNCT__ of cours i respect him __PUNCT__
+but i point out we were on the wrong track in a whole lot of wai __PUNCT__ includ a __MONEY__ trillion deficit __PUNCT__ includ sai we got to rein in fanni mae and freddi mac and __PUNCT__ and propos legisl to try to fix it befor that trigger the hous collaps __PUNCT__ includ todai when i sai thei should be go out and bui up these mortgag and give peopl mortgag that thei can afford rather than bail out the bank __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ we go to get to that __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ sure __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ __URL__ issu in a moment __PUNCT__
+on of the thing that you been sai in the cours of your campaign is that senat obama ha neither the experi nor the judgment to be the presid of the unit state __PUNCT__
+we got some poll on how he do with the american voter on some of the critic issu of the dai __PUNCT__
+thi is the latest nbc news/wal street journal poll that wa taken from __DATE__ to __DATE__ __PUNCT__
+on health care __PUNCT__ who better equip to deal with that __PUNCT__ obama ha a __NUM__ point advantag over you in that poll __PUNCT__
+as you can see __PUNCT__ the economi is up __NUM__ point __PUNCT__ the hous crisi __PUNCT__ a __NUM__ point advantag __PUNCT__ tax __PUNCT__ __NUM__ __PUNCT__ in iraq __PUNCT__ you have an advantag over senat obama of about __NUM__ point __PUNCT__
+these ar not pundit __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ we final found a poni __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ these ar not the pundit or the media elit __PUNCT__
+thi is a broad __PUNCT__ base poll across the countri __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ yeah __PUNCT__
+that i don't agre with __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ peopl make judgment about who qualifi __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ but i don't agre with their __PUNCT__ with their conclus that i a __PUNCT__ quot __PUNCT__ __NUM__ or __NUM__ or __NUM__ point __PUNCT__ whatev it is __PUNCT__
+we have poll __PUNCT__ includ i think a zogbi poll __PUNCT__ show us __NUM__ or __NUM__ point behind __PUNCT__
+so if you want to continu to refer to a poll that i disagre with __PUNCT__ i have to start out our convers i don't agre with that __PUNCT__
+we ar close and we have been close __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ but it not the onli poll __PUNCT__ senat __PUNCT__
+a number of poll show that __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ oh __PUNCT__ and it not the onli poll that show us close __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ mm __PUNCT__ hmm __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ so __PUNCT__ you know __PUNCT__ i sure we don't want to spend the morn argu about poll that ar accur or inaccur __PUNCT__ but i will stand befor the american peopl with my view that __PUNCT__ that i think that we don't __PUNCT__ we cannot fine small busi peopl and their __PUNCT__ you know __PUNCT__ or their emploi __PUNCT__ small busi peopl who have employe without health insur __PUNCT__ that he go to fine them if thei don't have __PUNCT__ have the insur polici that thei want __PUNCT__ that senat obama want them to have __PUNCT__
+that if thei have children that don't have health insur that senat obama want them to have __PUNCT__ thei will be fine __PUNCT__
+that he want to spend an addit trillion dollar __PUNCT__
+i stand on those issu __PUNCT__
+i stand on them __PUNCT__ and i take the verdict of the american peopl __PUNCT__
+and i guarante you that two week from now you will see thi ha been a veri close race __PUNCT__
+and i believ that i go to win it __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ all right __PUNCT__
+i __PUNCT__ i __PUNCT__ i don't want to dwell on these poll unduli __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ yeah __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ but even if you had a big __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ here we go again __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ __URL__ you even had __PUNCT__ even if you had a big margin of error __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ i can give __PUNCT__ i can show you __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ yeah __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ __URL__ a zogbi poll and our poll and other poll that will show differ number than the on you show __PUNCT__
+so __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ well __PUNCT__ yeah __PUNCT__ but those ar the big univers poll __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ so you start out __PUNCT__ in all due respect __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ yeah __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ __URL__ fundament assumpt that i don't agre with __PUNCT__
+so it hard for me to respond to assumpt that i don't agre with __PUNCT__
+on the economi __PUNCT__ look __PUNCT__ we just __PUNCT__ we just figur it out with __PUNCT__ joe the plumber __PUNCT__
+american just figur it out __PUNCT__
+he want to spread the wealth around __PUNCT__
+and everi time there a poll __PUNCT__ there a differ tax plan __PUNCT__
+there a differ tax plan for america __PUNCT__
+he the gui that senat obama vote to __PUNCT__ for a democrat budget resolut with will impos tax on individu make __MONEY__ a year __PUNCT__
+that just a fact __PUNCT__
+he want to rais tax in a time of econom difficulti __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ but he continu to insist that __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ the last time a presid of the unit state that did that wa a gui name herbert hoover __PUNCT__ protection and rais tax __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ well __PUNCT__ ronald reagan rais tax as well __PUNCT__ after the first two year in offic __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ not in these time __PUNCT__
+not in time __PUNCT__ not in econom time like these __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ well __PUNCT__ right after the recess he did __PUNCT__ in the first two year of hi offic __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ well __PUNCT__ look __PUNCT__ i would be glad to review the reagan record __PUNCT__ but the reagan record wa certainli on that rein in spend __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ well __PUNCT__ let me ask you __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ and certainli on that i veri proud of in as far as both their econom and nation secur polici __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ well __PUNCT__ let me ask you about that busi about spread the wealth around __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ sure __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ __URL__ ha been a favorit phrase now of the mccain campaign __PUNCT__
+and also your vice presidenti candid ha us the word __PUNCT__ socialist __PUNCT__ and __PUNCT__ social __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ mm __PUNCT__ hmm __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ do you honestli think that barack obama would have as hi advis __PUNCT__ warren buffet __PUNCT__ paul volcker __PUNCT__ former chairman of the feder reserv under ronald reagan __PUNCT__ who is wide credit with save the economi at that time __PUNCT__ bob rubin __PUNCT__ former treasuri secretari __PUNCT__ and even chri bucklei __PUNCT__ the son of the godfath of the modern conserv movement __PUNCT__ both endors hi econom polici and help shape them if thei thought he wa a socialist of some kind __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ all i know is that senat obama record is veri clear __PUNCT__
+it hi record __PUNCT__ not volcker record __PUNCT__ not anybodi els __PUNCT__
+he start out in the lefthand lane of american polit and ha remain there __PUNCT__
+he ha been judg the most liber unit state senat __PUNCT__
+biden number three __PUNCT__
+__PUNCT__ joe the biden __PUNCT__ is number three __PUNCT__
+berni sander is number two __PUNCT__
+and __PUNCT__ and i respect that __PUNCT__
+but let not __PUNCT__ let not call it anyth but it is __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ well __PUNCT__ he __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ he vote for tax increas __PUNCT__ against tax cut __PUNCT__ ha advoc rais capit gain tax __PUNCT__
+anoth __PUNCT__ anoth anchor __PUNCT__ charli gibson __PUNCT__ said __PUNCT__ why would you want to rais capit gain tax and __PUNCT__ when you know that that could decreas revenu __PUNCT__ he said __PUNCT__ it a matter of fair __PUNCT__
+he said to __PUNCT__ joe the plumber __PUNCT__ it __PUNCT__ spread the wealth around __PUNCT__
+i __PUNCT__ i __PUNCT__ hi polit philosophi is veri __PUNCT__ veri differ about what he believ is futur of america concern __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ well __PUNCT__ can we __PUNCT__ can we __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ i believ the worst thing you can do is rais tax __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ can we share with the audienc __PUNCT__ then __PUNCT__ a coupl of __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ sure __PUNCT__
+sure __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ __URL__ comment about tax wealthi american __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ sure __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ thi is from __DATE__ __PUNCT__ __NUM__ __PUNCT__
+it meet the press __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ mm __PUNCT__ hmm __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ __URL__ thi is what you had to sai about wealthi american and tax at that time __PUNCT__
+__PUNCT__ videotap __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ i vote against the tax cut becaus of the disproport amount that went to the wealthiest american __PUNCT__
+__PUNCT__ end videotap __PUNCT__ mr __PUNCT__
+brokaw __PUNCT__ and then thi is what you had to sai on __PUNCT__ hardbal __PUNCT__ back in __NUM__ to chri matthew __PUNCT__
+__PUNCT__ videotap __PUNCT__ __DATE__ __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ here what i __PUNCT__ i __PUNCT__ i realli believ __PUNCT__ that when you ar __PUNCT__ reach a certain level of comfort __PUNCT__ there noth wrong with pai somewhat more __PUNCT__
+__PUNCT__ end videotap __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ that what __PUNCT__ listen __PUNCT__ even the flat tax peopl somewhat pai more __PUNCT__
+even __PUNCT__ you put into differ __PUNCT__ differ categori of wealthier peopl pai __PUNCT__ pai higher tax into differ bracket __PUNCT__
+i mean __PUNCT__ and the __PUNCT__ and these ar differ time __PUNCT__ my friend __PUNCT__
+these ar time of the biggest financi crisi we face in america __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ well __PUNCT__ let me rais that __PUNCT__ then __PUNCT__ if i __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ so __PUNCT__ so let me just tell you again __PUNCT__ i also said __PUNCT__ when i oppos the bush tax cut __PUNCT__ said __PUNCT__ that is left out of thi equat __PUNCT__ i said i got to __PUNCT__ we got to get spend under control __PUNCT__
+spend wa complet out of control __PUNCT__
+we laid a __MONEY__ trillion debt on futur gener of america __PUNCT__
+we ow the chines a half a trillion dollar __PUNCT__
+spend wa __PUNCT__ wa the __PUNCT__ wa the __PUNCT__ i think __PUNCT__ the realli biggest aspect __PUNCT__ to a larg degre __PUNCT__
+it weaken the dollar __PUNCT__ it rais the cost of good to american __PUNCT__
+the hous crisi combin with a __PUNCT__ with a countri that live wai beyond it mean is a __PUNCT__ is a combin which ha put us into thi great financi crisi we in __PUNCT__
+so __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ but there __PUNCT__ there is thi continu us __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ i feel that __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ __URL__ the phrase __PUNCT__ social __PUNCT__
+how would you describ the __MONEY__ billion bailout that ha the unit state govern bui share in american bank __PUNCT__ in effect nation those bank to a degre __PUNCT__ and even your own mortgag plan of spend __MONEY__ billion to bui bad mortgag from bank __PUNCT__ have taxpay who have done the respons thing __PUNCT__ in effect __PUNCT__ subsid peopl who done the dumb or wrong thing __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ becaus we ar in a financi crisi of monument proport __PUNCT__
+the role of govern is to interven when a nation is in crisi __PUNCT__
+a homeown loan corpor wa institut in the great depress __PUNCT__
+thei went out and thei bought peopl mortgag __PUNCT__ and __PUNCT__ over time __PUNCT__ peopl were abl __PUNCT__ then __PUNCT__ to pai back those mortgag __PUNCT__
+and the treasuri actual made some monei __PUNCT__
+thi treasuri in thi administr is spend it time bail out the bank __PUNCT__
+the caus of the crisi wa the hous crisi __PUNCT__ as we know __PUNCT__
+and how __PUNCT__ home valu __PUNCT__ as long as thei continu to declin __PUNCT__ then we not go to see a turnaround in thi economi __PUNCT__
+a lot of other thing have to happen __PUNCT__ have to happen __PUNCT__ but at least let understand that we ought to keep peopl in their home __PUNCT__
+that the american dream __PUNCT__
+and thei sai now that mayb thei go to address that problem __PUNCT__
+let address it first __PUNCT__
+and so when a __PUNCT__ when a nation is in crisi __PUNCT__ that when a govern ha to interven __PUNCT__
+now __PUNCT__ a lot of the time you were talk about __PUNCT__ __NUM__ other time __PUNCT__ time were pretti good overal __PUNCT__
+you had differ __PUNCT__ you have to have differ role of govern in differ time __PUNCT__
+i a fundament __PUNCT__ obvious __PUNCT__ a strong conserv __PUNCT__
+but when we in a crisi of thi natur __PUNCT__ that when govern ha to help __PUNCT__
+that __PUNCT__ that what __PUNCT__ that what our fundament belief __PUNCT__ the reason why we have govern __PUNCT__
+in time of crisi __PUNCT__ we go in and we try and help the peopl __PUNCT__ especi in thi situat where thei the __PUNCT__ the victim of a drive __PUNCT__ by shoot by excess __PUNCT__ greed and corrupt in washington and wall street __PUNCT__
+and again __PUNCT__ i and other said we have to have legisl to rein it in __PUNCT__
+senat obama didn't lift a finger __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ well __PUNCT__ you did __PUNCT__ you made your comment about fanni mae and freddi mac at the time of the account issu __PUNCT__ when that wa first rais __PUNCT__
+can you cite a time __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ in __PUNCT__ in realiti __PUNCT__ we __PUNCT__ we propos legisl and made a statement that said __PUNCT__ look __PUNCT__ it not just the account __PUNCT__ thi whole process is go to lead to disast __PUNCT__
+i be glad to provid you with the letter __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ let me ask you quickli about your __MONEY__ billion bailout of __PUNCT__ of mortgag __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ hm __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ some peopl have said __PUNCT__ look __PUNCT__ if there a homeown out there who done the irrespons thing __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ mm __PUNCT__ hmm __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ __URL__ a bank is look at that foreclosur and sai __PUNCT__ hei __PUNCT__ i don't have to work thi out __PUNCT__
+i can just get the govern to pick it up __PUNCT__ why should a taxpay in waterloo __PUNCT__ iowa __PUNCT__ or in akron __PUNCT__ ohio __PUNCT__ have to subsid somebodi who ha done the dumb __PUNCT__ wrong thing __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ well __PUNCT__ in simplest term __PUNCT__ if their neighbor next door throw the kei in the live room floor and leav __PUNCT__ then the valu of their home is go to dramat decreas as well __PUNCT__
+and again __PUNCT__ thi ha been done befor __PUNCT__
+as i said __PUNCT__ dure the great depress and __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ and that when republican call it social under fdr __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ well __PUNCT__ look __PUNCT__ in the great depress __PUNCT__ there were some thing that work and some thing that didn't work __PUNCT__
+but for the govern to do noth in the face of a massiv crisi of proport that we have not seen __PUNCT__ i mean __PUNCT__ it hard for us to imagin how __PUNCT__ in __PUNCT__ in retrospect __PUNCT__ how seriou the great depress wa __PUNCT__ but the fact is that senat obama __PUNCT__ by the wai __PUNCT__ oppos that __PUNCT__ that __PUNCT__ and i want to us some of the __MONEY__ billion to go and bui those mortgag and that __PUNCT__ i think __PUNCT__ will stabil the market __PUNCT__
+it not the onli thing that need to be done __PUNCT__ but i think it a vital first step so american can realiz the american dream __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ i stop __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ and by the wai __PUNCT__ thi is primari resid __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ yeah __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ there a lot of circumst that __PUNCT__ yeah __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ i stop briefli in michigan on the wai here and that a state in meltdown __PUNCT__ as well as you know __PUNCT__ and the center for automot research at ann arbor sai unless chrysler __PUNCT__ gm and ford get __MONEY__ billion __PUNCT__ thei run out of monei in a year and the american auto industri could disappear __PUNCT__
+do you think that the american govern should give those three automot maker __MONEY__ billion to tide them over __PUNCT__
+and is it import to preserv the american brand of automobil __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ well __PUNCT__ let get the first __MONEY__ billion to them first __PUNCT__
+that wai __PUNCT__ we __PUNCT__ we just gave them __MONEY__ million __PUNCT__
+let give them the __MONEY__ million and see how that work befor we sai we go to give you some more __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ but thei sai thei need anoth __MONEY__ billion in addit to that __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ well __PUNCT__ again __PUNCT__ let get the __MONEY__ billion to them to __PUNCT__ to start with and see how that goe __PUNCT__
+but let me just give an exampl __PUNCT__
+there a microcosm there __PUNCT__
+there an exampl __PUNCT__
+michigan think we got tough __PUNCT__ so guess what __PUNCT__ thei rais tax __PUNCT__
+thei rais tax in michigan __PUNCT__ and guess what __PUNCT__ thing got wors __PUNCT__
+michigan __PUNCT__ as i understand it __PUNCT__ is second __PUNCT__ on of two state in america that ha a declin popul becaus busi ar flee the state __PUNCT__
+so the worst thing we can do is increas tax __PUNCT__
+and senat obama want to do that __PUNCT__ and now it __MONEY__
+i guess last week it wa __MONEY__
+it chang with ever __PUNCT__ whatev the poll data tell him and hi advis __PUNCT__
+but the fact is you don't want to rais anyon tax in tough time __PUNCT__
+and just on other thing is busi now ar pai __NUM__ percent tax __PUNCT__
+now __PUNCT__ immedi __PUNCT__ somebodi go to sai __PUNCT__ well __PUNCT__ thei don't pai that __NUM__ percent __PUNCT__
+ask fred smith __PUNCT__ the ceo of fedex __PUNCT__ ask meg whitman __PUNCT__ the ceo of ebai __PUNCT__ ask john chamber __PUNCT__ the ceo of cisco __PUNCT__ thei tell you that thei pai __NUM__ percent __PUNCT__ ok __PUNCT__ but thei also tell you that on of the reason why thei attract to go oversea __PUNCT__ to ireland __PUNCT__ it __NUM__ percent tax there __PUNCT__
+so why not go to ireland where you can get qualifi worker and __PUNCT__ and you can save monei and creat job and __PUNCT__ and invest __PUNCT__ so thi busi about fat cat bailout and corpor __PUNCT__ all that kind of stuff __PUNCT__ we need to reduc the busi tax in america and we need to keep __PUNCT__ and we need to keep capit gain tax low __PUNCT__
+that __NUM__ million american who have someth to do with capit gain tax __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ senat __PUNCT__ let me __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ so we have a stark differ __PUNCT__
+senat obama want to __PUNCT__ spread the wealth around __PUNCT__ fair __PUNCT__
+and that __PUNCT__ that is the most liber econom posit that i seen in the unit state of america __PUNCT__
+just a fact __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ let me ask you some fact about your run mate __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ sure __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ governor sarah palin __PUNCT__
+you continu to defend her __PUNCT__ she continu to light up republican ralli wherev she goe __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ i don't __PUNCT__ i don't defend her __PUNCT__
+i prais her __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ yeah __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ i don't defend her __PUNCT__
+and she need __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ here the latest __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ __URL__ defens __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ all right __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ and here anoth poll __PUNCT__ the same wai __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ let me __PUNCT__ let me share with you anoth poll if i can __PUNCT__
+the washington post/abc new poll and thi is what we have to share with our audienc here todai on that __PUNCT__
+when she came out of the convent __PUNCT__ she had a __NUM__ percent favor rate __PUNCT__ it now down to __NUM__ percent __PUNCT__ unfavor is up to __NUM__ percent __PUNCT__
+thi mai be the most critic issu for you __PUNCT__ and that is independ voter __PUNCT__ women voter __PUNCT__ her favor rate now among them is just __NUM__ percent __PUNCT__
+it wa __NUM__ percent right after the convent __PUNCT__ and it now __NUM__ percent __PUNCT__
+mani peopl think that she just simpli not qualifi to be presid __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ becaus __PUNCT__ not qualifi becaus __PUNCT__ mr __PUNCT__
+brokaw __PUNCT__ she not qualifi becaus she had a lot of exposur in the last three month or so __PUNCT__ a vice presidenti debat __PUNCT__ a number of interview with peopl who were select by your campaign __PUNCT__ after all __PUNCT__
+she had __PUNCT__ some of those interview were quit friendli __PUNCT__ not necessarili prosecutori __PUNCT__
+and thei have come to the conclus __PUNCT__ base on everyth that we see __PUNCT__ that she not qualifi to be presid __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ well __PUNCT__ i __PUNCT__ the __PUNCT__ first of all __PUNCT__ i thought she did fine in __PUNCT__ in the __PUNCT__ actual __PUNCT__ so did most peopl __PUNCT__ in the debat with __PUNCT__ with senat biden __PUNCT__
+she ha more execut experi than senat biden and __PUNCT__ and senat obama togeth __PUNCT__
+she took on the governor of her own parti becaus she had seen what she thought wa corrupt __PUNCT__
+she been a mayor __PUNCT__
+she ha __NUM__ peopl underneath her __PUNCT__
+her husband is a __PUNCT__ work the third shift on a oil __PUNCT__ in __PUNCT__ facil on the north slope __PUNCT__
+he a __PUNCT__ thei __PUNCT__ thei have a __PUNCT__ she ha execut experi and ha given back monei to the taxpay __PUNCT__
+she ha taken democrat as well as republican into her administr __PUNCT__
+it sound like i __PUNCT__ i __PUNCT__ defend __PUNCT__ her __PUNCT__ but the fact is she is a dynam person with execut experi __PUNCT__ leadership __PUNCT__ reform __PUNCT__
+she exactli what washington need __PUNCT__
+i so proud of the wai she ignit the crowd __PUNCT__
+the wai that she is __PUNCT__ she ha conduct herself is __PUNCT__ in my view __PUNCT__ incred admir __PUNCT__
+i am __PUNCT__ do we __PUNCT__ do __PUNCT__ do sarah palin and i disagre on a specif issu __PUNCT__ yeah __PUNCT__ becaus we both maverick __PUNCT__
+but we share the same goal of clean up washington __PUNCT__
+you think some __PUNCT__ we will clean up and reform washington togeth __PUNCT__ and she ha the credenti and the vision and the dynam and the strength to do that __PUNCT__
+i could not be more proud of her __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ you know in polit that symbol ar veri power __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ sure __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ those pictur of you when you were a prison of war in hanoi have been a veri power remind of what you went through __PUNCT__
+and then in the last __NUM__ dai or so __PUNCT__ we learn that the republican nation committe spent __MONEY__ on her wardrob at neiman marcu and at sak when she wa portrai herself as a hockei mom repres the valu of main street __PUNCT__
+wasn't that a coloss mistak on the part of the rnc __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ look __PUNCT__ she live a frugal life __PUNCT__
+she and her famili ar not wealthi __PUNCT__
+she and her famili were thrust into thi __PUNCT__ and there wa some __PUNCT__ and some third of that monei is given back __PUNCT__ the rest will be donat to chariti __PUNCT__
+look __PUNCT__ american right now care about whether thei go to stai in their home __PUNCT__ whether thei go to have a job __PUNCT__ whether thei go to be abl to keep their health insur __PUNCT__ if we go to come out of thi ditch that we in __PUNCT__
+thei want chang __PUNCT__
+thei want reform __PUNCT__
+she is a role model to million and million and million of american __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ i know you were disappoint when colin powel last week came on meet the press __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ mm __PUNCT__ hmm __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ __URL__ prais you as a friend __PUNCT__ a longtim admir of your __PUNCT__ but said he wa go to vote for barack obama __PUNCT__
+and he list a number of reason why he wa go to do that __PUNCT__
+there wa a pretti sharp reaction across the countri __PUNCT__ both pro and con __PUNCT__ on the part of peopl who been follow polit carefulli __PUNCT__
+here what rush limbaugh had to sai on hi radio program about the reason that colin powel endors barack obama __PUNCT__
+__PUNCT__ videotap __PUNCT__ mr __PUNCT__
+rush limbaugh __PUNCT__ it wa total about race __PUNCT__
+the powel nomin __PUNCT__ or endors __PUNCT__ total __PUNCT__ total about race __PUNCT__
+__PUNCT__ end videotap __PUNCT__ mr __PUNCT__
+brokaw __PUNCT__ do you agre with rush limbaugh __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ no __PUNCT__
+i disappoint in gener powel __PUNCT__ but i veri __PUNCT__ veri happi to know that five former secretari of state who i admir enorm __PUNCT__ henri kissing __PUNCT__ jim baker __PUNCT__ larri eagleburg __PUNCT__ al hagu __PUNCT__ jim baker __PUNCT__ henri kissing __PUNCT__ al hagu __PUNCT__ larri eagleburg and on other __PUNCT__ and over __NUM__ retir flag gener __PUNCT__ gener and admir ar support my campaign __PUNCT__
+i veri proud of their support __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ senat __PUNCT__ we open todai with a __PUNCT__ how you do in iowa __PUNCT__
+the de moin regist ha endors __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ georg shultz __PUNCT__
+georg shultz is the other on __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ georg shultz __PUNCT__ right __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ georg __PUNCT__ i sorri i left you out to start with __PUNCT__
+georg shultz __PUNCT__ the great __PUNCT__ on of the great secretari of state in histori __PUNCT__
+anywai __PUNCT__ go ahead __PUNCT__
+i sorri __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ we open todai with __PUNCT__ with the poll here in iowa in which you trail by __NUM__ point __PUNCT__ accord to our nbc/mason dixon poll __PUNCT__
+the de moin regist ha endors barack obama as well __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ i astonish __PUNCT__ mr __PUNCT__
+brokaw __PUNCT__ it the state largest newspap __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ shock __PUNCT__ shock __PUNCT__ mr __PUNCT__
+brokaw __PUNCT__ now stai with me __PUNCT__
+stai with me for a minut here __PUNCT__
+here the arizona republ __PUNCT__ your largest newspap in the state of arizona todai __PUNCT__
+__PUNCT__ we have seen the irasc mccain __PUNCT__
+the bawdi and irrever mccain __PUNCT__
+and __PUNCT__ ye the temperament mccain __PUNCT__
+likewis __PUNCT__ we here in arizona have seen the former navi pilot and war hero evolv __PUNCT__ slowli and with lot of fit and start __PUNCT__ into a statesmen __PUNCT__
+that the arizona republ todai endors you for presid __PUNCT__
+i confid __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ god bless the arizona republ __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ i am confid that you ar awar of thi __PUNCT__ but our viewer probabl ar not __PUNCT__
+thi is __PUNCT__ i would think for you __PUNCT__ a veri poignant sundai becaus it wa __NUM__ year ago todai that you were shot down on a bomb mission over hanoi __PUNCT__
+thi is the associ press account of that __PUNCT__
+__PUNCT__ __DATE__ __PUNCT__ __NUM__ __PUNCT__
+navi fighter pilot john mccain be captur by vietnames civilian in truc bach lake near hanoi __PUNCT__ vietnam __PUNCT__
+actual __PUNCT__ it in hanoi __PUNCT__
+__PUNCT__ mccain wa tortur and imprison for more than five year __PUNCT__ and eventu award the silver star __PUNCT__ bronz star __PUNCT__ legion of merit __PUNCT__ purpl heart __PUNCT__ distinguish fly cross medal __PUNCT__ and prison of war medal __PUNCT__
+a week later __PUNCT__ your mother wrote thi letter to presid lyndon johnson __PUNCT__
+__PUNCT__ my dear mr __PUNCT__ presid __PUNCT__ as the parent of a son who wa shot down in hanoi last week __PUNCT__ and is now a prison of war __PUNCT__ i wonder if you ar interest to know that both my husband and i back you and your polici __NUM__ percent in vietnam __PUNCT__ on read so much of the opinion __PUNCT__ of other opinion that i just hope that you and the peopl realli make the sacrific believ in our countri and in you __PUNCT__
+mai gold bless you and keep you strong in your courag and convict __PUNCT__
+that your mother __PUNCT__ roberta mccain __PUNCT__ who is still go strong __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ nineti __PUNCT__ six __PUNCT__ still go strong __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ for all the obviou reason __PUNCT__ that experi wa a defin moment in your life __PUNCT__ and you said it chang your attitud toward you ar your countri from then on __PUNCT__ not your own man __PUNCT__
+how ha thi campaign chang you __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ it hasn't chang me __PUNCT__
+it made me humbl and grate and awar of the trust and faith and confid that so mani peopl have in me that it motiv me to continu to want to serv my countri __PUNCT__
+but i think it also valid servic to countri and put your countri first __PUNCT__
+we go to do well in thi campaign __PUNCT__ my friend __PUNCT__
+we go to win it __PUNCT__ and it go to be tight __PUNCT__ and we go to be up late __PUNCT__ but it will be becaus there so mani american who believ that i can give them the futur for themselv and their children and their grandchildren that we all aspir to __PUNCT__
+and i deepli honor __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ four year ago i interview presid bush at a time when it look like he mai be in troubl against john kerri __PUNCT__ final weekend of the campaign __PUNCT__
+i show him a map __PUNCT__
+he said __PUNCT__ oh __PUNCT__ i just don't do that __PUNCT__
+karl rove doe that __PUNCT__
+as soon as the interview wa over __PUNCT__ he said __PUNCT__ i win here __PUNCT__ and point to southeastern ohio __PUNCT__
+where will you win if you win __PUNCT__ sen __PUNCT__
+mccain __PUNCT__ i __PUNCT__ i think there ar obvious the battleground state that you and the panel ar go to be go over right after the segment of the program __PUNCT__ and we ar veri competit in those area __PUNCT__
+and we go to have to just get out our vote __PUNCT__ work hard over the next nine dai __PUNCT__ and __PUNCT__ and make sure that peopl know that there will be a better futur __PUNCT__
+peopl ar veri worri now __PUNCT__
+veri __PUNCT__ veri worri __PUNCT__ and have everi reason to be __PUNCT__
+i think it all about who can assur a better futur __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ senat mccain __PUNCT__ i hope thi ha been a better sundai than it wa __NUM__ year ago __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ thank you __PUNCT__
+and it good to be with you __PUNCT__
+and i appreci your mani year of inform the american peopl __PUNCT__
+you come a long wai from south dakota __PUNCT__ but you never forgot where you came from __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ that true __PUNCT__
+sen __PUNCT__
+mccain __PUNCT__ thank you __PUNCT__
+mr __PUNCT__
+brokaw __PUNCT__ thank for be here __PUNCT__
+thank you __PUNCT__

@@ -1,0 +1,600 @@
+russert __PUNCT__ mayor giuliani __PUNCT__ welcom back to meet the press __PUNCT__
+giuliani __PUNCT__ thank you __PUNCT__ tim __PUNCT__
+nice to be back __PUNCT__
+russert __PUNCT__ let go right to it __PUNCT__
+mason __PUNCT__ dixon __PUNCT__ msnbc have done some poll __PUNCT__
+first the democrat __PUNCT__ just to share with our viewer and give you a sens of that race __PUNCT__
+here iowa __PUNCT__ hillari clinton __PUNCT__ __NUM__ __PUNCT__ obama is __NUM__ __PUNCT__ edward __PUNCT__ __NUM__ __PUNCT__ three __PUNCT__ wai dead race __PUNCT__
+new hampshir __PUNCT__ clinton ahead by just three __PUNCT__
+south carolina __PUNCT__ clinton over obama by three __PUNCT__
+and the nevada caucu __PUNCT__ which is __DATE__ __PUNCT__ __DATE__ __PUNCT__ excus me __PUNCT__ __DATE__ __PUNCT__ clinton __PUNCT__ __NUM__ __PUNCT__ obama __PUNCT__ __NUM__ __PUNCT__
+now the republican __PUNCT__
+here thei ar __PUNCT__ iowa __PUNCT__ huckabe __PUNCT__ __NUM__ __PUNCT__ romnei __PUNCT__ __NUM__ __PUNCT__ thompson __PUNCT__ __NUM__ __PUNCT__ mccain __PUNCT__ __NUM__ __PUNCT__ giuliani __PUNCT__ __NUM__ __PUNCT__
+fifth place __PUNCT__ is that a problem __PUNCT__ giuliani __PUNCT__ i wish you had shown florida __PUNCT__
+it would __PUNCT__ it would have __PUNCT__ it would have look better __PUNCT__ where we have an __NUM__ __PUNCT__ point lead __PUNCT__
+there ar __PUNCT__ there ar some poll we behind __PUNCT__ some where we ahead __PUNCT__
+i think there ar __NUM__ primari and caucus go up to __DATE__ __PUNCT__
+i think we ahead in __NUM__ of them __PUNCT__
+i don't expect to win all of them __PUNCT__
+we go to work real hard in everi singl on of them __PUNCT__ mayb surpris some peopl in iowa __PUNCT__ mayb in new hampshir __PUNCT__ work real hard there __PUNCT__
+south carolina __PUNCT__ michigan __PUNCT__ nevada __PUNCT__
+then we get to florida __PUNCT__ where i think the latest poll wa __NUM__ to __NUM__ __PUNCT__ point lead __PUNCT__ and we had a lead there of that magnitud pretti much throughout __PUNCT__
+everi onc in a while it slip back to like seven or eight __PUNCT__
+russert __PUNCT__ but in fifth place in iowa __PUNCT__ would it be better for you if huckabe beat romnei in iowa __PUNCT__ wouldn't that be help __PUNCT__ giuliani __PUNCT__ the best thing is if you win __PUNCT__
+that the veri best thing __PUNCT__
+russert __PUNCT__ but that __PUNCT__
+giuliani __PUNCT__ who know __PUNCT__
+who know __PUNCT__
+i __PUNCT__ you been through so mani of these __PUNCT__ tim __PUNCT__
+you know that no candid ha won all the primari in a __PUNCT__ in a hotli contest on __PUNCT__
+thi is on in which that not veri conceiv __PUNCT__ given all the good candid there ar __PUNCT__
+so if we can win a coupl at the begin __PUNCT__ you know __PUNCT__ win florida for sure __PUNCT__
+we go into __DATE__ __PUNCT__ then __PUNCT__ ahead in new york __PUNCT__ illinoi __PUNCT__ california __PUNCT__ new jersei __PUNCT__ connecticut __PUNCT__
+we actual ahead right now __PUNCT__ i believ __PUNCT__ in missouri __PUNCT__
+kit bond endors probabl help there more than me __PUNCT__
+but the realiti is we got __PUNCT__ we got a lead probabl in __PUNCT__ like __PUNCT__ __NUM__ of the __NUM__ on __DATE__ __PUNCT__ florida __PUNCT__ and we competit __PUNCT__
+but we got a long wai to go in some of them __PUNCT__
+so we go to see __PUNCT__
+we go to work real hard __PUNCT__
+russert __PUNCT__ here new hampshir __PUNCT__ romnei ahead of __PUNCT__ as you can see __PUNCT__ __NUM__ __PUNCT__ giuliani __PUNCT__ __NUM__ __PUNCT__ mccain __PUNCT__ __NUM__ __PUNCT__
+south carolina __PUNCT__ huckabe is ahead __NUM__ __PUNCT__ giuliani __PUNCT__ __NUM__ __PUNCT__ romnei __PUNCT__ __NUM__ __PUNCT__
+and nevada __PUNCT__ we show you nevada __PUNCT__ giuliani is ahead __NUM__ __PUNCT__
+giuliani __PUNCT__ now do florida __PUNCT__
+do florida __PUNCT__
+russert __PUNCT__ we __PUNCT__ we haven't done florida __PUNCT__
+but we __PUNCT__ we get there eventu __PUNCT__
+giuliani __PUNCT__ no __PUNCT__ but you look __PUNCT__ you look at south carolina __PUNCT__ that __PUNCT__ that a good place to be for someon who ha __PUNCT__ you know __PUNCT__ campaign all over the countri __PUNCT__
+we haven't concentr on ani on state __PUNCT__
+we kind of had a proportion campaign all over __PUNCT__
+some of the candid have concentr on a state __PUNCT__
+we got a real good organ in south carolina __PUNCT__
+that a veri competit place to be __PUNCT__
+russert __PUNCT__ but if you lose __PUNCT__
+giuliani __PUNCT__ new hampshir __PUNCT__
+russert __PUNCT__ __URL__ if you lose iowa and new hampshir __PUNCT__ south carolina __PUNCT__ you still in __PUNCT__ giuliani __PUNCT__ i __PUNCT__ i __PUNCT__ i in __PUNCT__ all right __PUNCT__ the idea is you want to win the first on __PUNCT__
+if you lose the first on __PUNCT__ you want to win the second on __PUNCT__
+if you lose the second on __PUNCT__ you want to win the third on __PUNCT__
+and you want to be there for __PUNCT__ you know __PUNCT__ florida __PUNCT__ at the end of the month __PUNCT__ big state __PUNCT__
+and you want to be there __PUNCT__ certainli __PUNCT__ for __DATE__ when we go to have more primari on on dai than we ever had in our histori __PUNCT__
+and some real big state __PUNCT__ you know __PUNCT__ new york __PUNCT__ illinoi __PUNCT__ california __PUNCT__ new jersei __PUNCT__ connecticut __PUNCT__ delawar __PUNCT__
+russert __PUNCT__ let me turn to some import issu first __PUNCT__
+giuliani __PUNCT__ oh __PUNCT__ and michigan is in there __PUNCT__ too __PUNCT__
+we shouldn't miss michigan is in there in __DATE__ __PUNCT__
+russert __PUNCT__ let me turn to iran __PUNCT__
+the nation intellig estim is out __PUNCT__
+thi is what thei report from our intellig commun __PUNCT__
+__PUNCT__ we judg with high confid that in __PUNCT__ the __PUNCT__ fall __PUNCT__ of __PUNCT__ __NUM__ tehran halt it nuclear weapon program __PUNCT__
+__PUNCT__ we assess with moder confid tehran had not restart it nuclear weapon program as of mid __PUNCT__ __NUM__ __PUNCT__
+__PUNCT__ we judg with moder confid that the earliest possibl date iran would be technic capabl of produc enough highli enrich uranium for a weapon is late __NUM__ but __PUNCT__ thi __PUNCT__ is veri unlik __PUNCT__
+__PUNCT__ we judg with high confid that iran will not be technic capabl of produc and reprocess enough plutonium for a weapon befor __NUM__ __PUNCT__
+and when the nation intellig estim wa ask as to why that mai have happen __PUNCT__ thi wa their conclus __PUNCT__ our assess that iran halt the program in __NUM__ primarili in respons to intern pressur indic tehran decis ar guid by a cost __PUNCT__ benefit approach rather than a rush to a weapon irrespect of the polit __PUNCT__ econom and militari cost __PUNCT__
+see that __PUNCT__ hear that __PUNCT__ learn that __PUNCT__
+giuliani __PUNCT__ right __PUNCT__
+russert __PUNCT__ doesn't thi remov the option of a pre __PUNCT__ emptiv militari strike against iran __PUNCT__ giuliani __PUNCT__ no __PUNCT__ i __PUNCT__ i don't think it doe __PUNCT__
+i think __PUNCT__ i think you alwai leav open the militari option in a situat __PUNCT__ and you got to interpret it __PUNCT__ you got to interpret that as between high confid __PUNCT__ moder confid __PUNCT__
+i think what it sai __PUNCT__ i think a fair interpret is that __PUNCT__ at least in their estim __PUNCT__ which thei warn you mai not be correct if you read the introductori part of it __PUNCT__ right now the short __PUNCT__ term issu is not nearli as grave __PUNCT__ but thei go on to sai that the long __PUNCT__ term issu is still there __PUNCT__ that thei can't __PUNCT__ thei can't with ani high degre of confid sai that thei not go to move ultim toward nuclear weapon __PUNCT__
+so our __PUNCT__ our __PUNCT__ the option of thi govern should be that we don't take ani option off the tabl __PUNCT__ and we keep the pressur on them __PUNCT__
+and of cours we don't __PUNCT__ we don't want to us the militari option __PUNCT__
+it would be danger __PUNCT__ it would be riski __PUNCT__
+but i think it would be more danger and more riski if iran did becom a nuclear power __PUNCT__
+we should util sanction __PUNCT__
+we should util as much pressur as we capabl of __PUNCT__
+but the fact that that is there __PUNCT__ that militari option is there __PUNCT__ not taken off the tabl ultim increas the pressur __PUNCT__ doesn't it __PUNCT__ the realiti is the pressur work __PUNCT__
+thei said that __PUNCT__ too __PUNCT__ right __PUNCT__ thei __PUNCT__ thei said in __NUM__ iran abandon it nuclear program __PUNCT__ thei believ __PUNCT__ becaus of all the pressur __PUNCT__ all the threat __PUNCT__ that thei ar suscept to that __PUNCT__
+__NUM__ wa the year in which we depos saddam hussein __PUNCT__
+it wa the year in which america show massiv militari strength __PUNCT__
+russert __PUNCT__ but you not sai depos saddam hussein wa a reason that iran suspend it program __PUNCT__ giuliani __PUNCT__ i __PUNCT__ i wa go __PUNCT__ no __PUNCT__ i __PUNCT__ i said you got to look at what wa go on in __NUM__ __PUNCT__
+all of a sudden iran __PUNCT__ accord to thi __PUNCT__ if it correct __PUNCT__ and again __PUNCT__ we all have to factor thi with it mai or mai not be correct __PUNCT__ high confid __PUNCT__ thei go on to warn you that that doesn't mean it certain __PUNCT__
+when you read thi __PUNCT__ you got to have a chart to interpret it __PUNCT__
+so the realiti is thei stop in __NUM__ __PUNCT__
+so now let look at what wa go on in __NUM__ __PUNCT__
+we had just won a big victori in afghanistan __PUNCT__ we had depos saddam hussein __PUNCT__
+that around the time qadafi wa put up the red flag __PUNCT__ the white flag of surrend __PUNCT__
+so __PUNCT__ and thei sai that pressur help to bring iran to that posit __PUNCT__
+russert __PUNCT__ diplomat pressur __PUNCT__
+giuliani __PUNCT__ well __PUNCT__ well __PUNCT__ pressur in gener __PUNCT__
+and the idea that the militari option is not taken off the tabl ha got to add to that pressur __PUNCT__
+you take the militari option off the tabl complet __PUNCT__ i think you move back into a differ situat __PUNCT__
+when you sai the militari option is on the tabl __PUNCT__ it doesn't mean as some __PUNCT__ you know __PUNCT__ polit oppon like to sai that you __PUNCT__ you know __PUNCT__ you __PUNCT__ you threaten or __PUNCT__ it a statement of polici __PUNCT__
+and then you sai __PUNCT__ what we want to do __PUNCT__ we want to see a peac solut to thi __PUNCT__
+nobodi would be happier than american to see a peac solut to thi __PUNCT__
+and then you also try to get your alli to be as strong as thei possibl can be on the sanction becaus i think i would us that nie with them to sai __PUNCT__ it work __PUNCT__
+thi work __PUNCT__
+thi kind of diplomat pressur and not take the militari option off the tabl work __PUNCT__
+__NUM__ all the pressur wa there and the militari option wa on the tabl __PUNCT__ and thei stop __PUNCT__
+why would we now take it off the tabl __PUNCT__ russert __PUNCT__ norman podhoretz __PUNCT__ who an advis of your on foreign polici __PUNCT__ thi is what he wrote __PUNCT__
+__PUNCT__ the case for bomb iran __PUNCT__
+i hope and prai that presid bush will do it __PUNCT__ by norman podhoretz __PUNCT__ and then thi interview __PUNCT__
+__PUNCT__ norman podhoretz believ that american need to go to war soon with iran __PUNCT__
+as far as he know __PUNCT__ rudi giuliani think the same thing __PUNCT__
+__PUNCT__ i wa ask to come in and give him a brief on the war __PUNCT__ world war iv __PUNCT__ said mr __PUNCT__ podhoretz __PUNCT__ a found father of neoconservat and lead foreign polici advis to mr __PUNCT__ giuliani __PUNCT__
+__PUNCT__ as far as i can tell there is veri littl differ in how he see the war and how i see it __PUNCT__
+do you believ that __PUNCT__ like norman podhoretz __PUNCT__ that we should bomb iran as soon as logist possibl __PUNCT__ giuliani __PUNCT__ no __PUNCT__ i believ what i just said and have said consist __PUNCT__ that militari option should not be taken off the tabl __PUNCT__
+it could be a big mistak to do that __PUNCT__ but that that should be an option that would be even thought about onli as a last resort __PUNCT__
+russert __PUNCT__ podhoretz __PUNCT__
+giuliani __PUNCT__ and that that diplomat pressur __PUNCT__ other kind of polit pressur __PUNCT__ econom pressur __PUNCT__ which is __PUNCT__ i think __PUNCT__ also enorm help here __PUNCT__ try to get more help from russia and china __PUNCT__ i think all of thi can work __PUNCT__
+i think it work less successfulli if you go ahead and take the militari option off the tabl __PUNCT__
+but i don't think the militari option is the thing that we want __PUNCT__
+i mean __PUNCT__ that isn't the thing that we __PUNCT__ we __PUNCT__ we want to get to if we don't have to __PUNCT__
+again __PUNCT__ we would onli get to it if it wa a last resort and under thi kind of an analysi __PUNCT__
+understand it would be danger and riski __PUNCT__ but that it would be more danger and more riski for iran __PUNCT__ a highli irrespons regim __PUNCT__ to be have nuclear weapon __PUNCT__
+it wa the worst nightmar of the cold war __PUNCT__ the idea that irrespons peopl would have nuclear weapon __PUNCT__
+so i would __PUNCT__ i would sai you put great emphasi on sanction __PUNCT__ you put great emphasi on econom pressur __PUNCT__ hope that that work __PUNCT__
+look like it had some success alreadi __PUNCT__ although you have to have some paus with the other comment that sai thei onli moder confid that thei haven't resum move toward nuclear weapon __PUNCT__
+so you got to __PUNCT__ you got to be cautiou about thi __PUNCT__
+russert __PUNCT__ podhoretz also wrote thi __PUNCT__ thi week __PUNCT__
+__PUNCT__ i entertain an even darker suspicion __PUNCT__
+it is that the intellig commun __PUNCT__ which ha for some year now been leak materi calcul to undermin georg w __PUNCT__ bush __PUNCT__ is do it again __PUNCT__
+thi time the purpos is to head off the possibl that the presid mai order air strike on the iranian nuclear instal __PUNCT__
+do you think the intellig commun is intention put thi inform out __PUNCT__ giuliani __PUNCT__ i have __PUNCT__ i have no reason to believ that __PUNCT__
+the onli thing i can do is interpret the languag at face valu __PUNCT__
+it a __PUNCT__ it is a much more complex interpret when you read it than either side present it becaus on side present it veri much in on direct __PUNCT__ the other side can present it in anoth direct __PUNCT__
+it a pretti balanc present that i think add up to we better __PUNCT__ long __PUNCT__ term __PUNCT__ be veri __PUNCT__ veri cautiou about iran and we better keep the pressur on __PUNCT__ otherwis __PUNCT__ even thei ar onli moder confid that iran ha not gone back to the program of move toward __PUNCT__ you know __PUNCT__ nuclear weapon __PUNCT__
+russert __PUNCT__ your best estim as a potenti command in chief __PUNCT__ how long will u. __PUNCT__ troop be in iraq __PUNCT__ giuliani __PUNCT__ for as long as necessarili to get the strateg object achiev __PUNCT__
+i mean __PUNCT__ we __PUNCT__ we __PUNCT__ we have a strateg object in iraq __PUNCT__ and sometim we lose sight of that in light of all the polit that ar surround it __PUNCT__
+our strateg object in iraq is an iraq that stabl and an iraq that will act as an alli of the unit state in the ongo islam terrorist effort war against us __PUNCT__
+that the strateg object that would be in the best interest of the unit state __PUNCT__
+i think everi american would agre __PUNCT__
+some think that that possibl __PUNCT__ some think that it imposs __PUNCT__ but that certainli the best strateg object __PUNCT__
+everyth that i can see __PUNCT__ inform that i can get __PUNCT__ tell me that our militari __PUNCT__ includ gener petraeu __PUNCT__ think that there still a chanc we can achiev that object __PUNCT__
+as long as there still a chanc that we can achiev that object __PUNCT__ we should support it __PUNCT__ democrat and republican __PUNCT__
+i mean __PUNCT__ what __PUNCT__ what __PUNCT__ what possibl gain is there for ani american __PUNCT__ republican or democrat __PUNCT__ if we lose in iraq and have to bring the troop back in defeat __PUNCT__
+russert __PUNCT__ but if there no __PUNCT__
+giuliani __PUNCT__ that would be a gain __PUNCT__ that would be a gain for the islam terrorist in their war against us __PUNCT__
+russert __PUNCT__ if there no polit reconcili between the shiit and the sunni and that becom clear to you __PUNCT__
+giuliani __PUNCT__ if __PUNCT__ if it becam clear to ani presid __PUNCT__ republican or democrat __PUNCT__ that the __PUNCT__ the __PUNCT__ the peopl in charg of the effort tell you __PUNCT__ hei __PUNCT__ mr __PUNCT__ presid __PUNCT__ we can't accomplish thi __PUNCT__
+thi can't get done __PUNCT__
+we just __PUNCT__ we just __PUNCT__ we just in a situat that is imposs to succe __PUNCT__ i think ani presid would have to take that real serious and start think about __PUNCT__ well __PUNCT__ how do we extric ourselv from thi __PUNCT__
+russert __PUNCT__ but as of now __PUNCT__
+giuliani __PUNCT__ that isn't __PUNCT__ but that __PUNCT__
+russert __PUNCT__ __URL__ of now you __PUNCT__ you prepar to spend more __PUNCT__ sever more year if necessari __PUNCT__
+giuliani __PUNCT__ for now __PUNCT__ i __PUNCT__ i don't think you put it __PUNCT__ when ha ani countri ever won a war with great pressur for time limit place on the militari while you ar engag in that war __PUNCT__ i think there been a counterproduct thing done here that __PUNCT__ if we had gone into ani war with __PUNCT__ you know __PUNCT__ you got a year to do thi __PUNCT__ you got two year to do thi __PUNCT__ otherwis we go to give the enemi a timet of our retreat __PUNCT__ you almost can't succe in that war __PUNCT__
+the enemi even figur out you can't succe __PUNCT__ and thei outlast you __PUNCT__
+so i think you have to sai __PUNCT__ and i think we should learn that from thi experi we gone through __PUNCT__ where we seen a lot of democrat __PUNCT__ like __PUNCT__ in three or four differ posit on thi __PUNCT__
+i think we should learn from thi that we should set a strateg object __PUNCT__ and we should support that strateg object __PUNCT__
+when it becom obviou to the militari that we can't succe __PUNCT__ or our review of it __PUNCT__ then we shouldn't __PUNCT__
+but as long as there a chanc __PUNCT__ we should support achiev that object __PUNCT__
+russert __PUNCT__ let me ask you about terror __PUNCT__
+you were front and center on __DATE__ __PUNCT__
+you testifi befor the __DATE__ commiss __PUNCT__ and there wa an articl recent in the villag voic that cite some comment you made __PUNCT__
+i want to ask you about them __PUNCT__ rudi giuliani told an audienc at pat robertson regent univers __PUNCT__ bin laden declar war on us __PUNCT__
+we didn't hear it __PUNCT__
+i thought it wa pretti clear at the time __PUNCT__ but a lot of peopl didn't see it __PUNCT__ couldn't see it __PUNCT__
+a __NUM__ __PUNCT__ page __PUNCT__ memorandum for the record __PUNCT__ prepar by a 9/11 commiss counsel and date __DATE__ quot giuliani conced that it wasn't until __PUNCT__ after __PUNCT__ __DATE__ __PUNCT__ that __PUNCT__ we brought in peopl to brief us on al __PUNCT__ qaeda __PUNCT__
+ask about the __PUNCT__ flow of inform about al __PUNCT__ qaeda threat from __NUM__ __PUNCT__ giuliani said __PUNCT__ at the time __PUNCT__ i wasn't told it wa al __PUNCT__ qaeda __PUNCT__ but now that i look back at it __PUNCT__ i think it wa al __PUNCT__ qaeda __PUNCT__
+that doesn't seem someon who veri awar of the al __PUNCT__ qaeda threat befor __DATE__ __PUNCT__
+giuliani __PUNCT__ i wasn't veri awar of it befor __DATE__ __PUNCT__
+i __PUNCT__ i knew about it in gener __PUNCT__
+that what i wa sai to the commiss __PUNCT__
+russert __PUNCT__ but thei had been particip in the __PUNCT__ __NUM__ world trade center bomb __PUNCT__
+giuliani __PUNCT__ right __PUNCT__
+i knew that __PUNCT__
+russert __PUNCT__ in __NUM__ al __PUNCT__ qaeda declar war on the u. __PUNCT__ giuliani __PUNCT__ i __PUNCT__ i knew that __PUNCT__
+russert __PUNCT__ but if you knew that __PUNCT__ why weren't you brief your peopl and be more front and center on that issu __PUNCT__ giuliani __PUNCT__ well __PUNCT__ becaus i __PUNCT__ i __PUNCT__ i didn't __PUNCT__
+russert __PUNCT__ of be prepar for it __PUNCT__ giuliani __PUNCT__ __URL__ see the enorm of it __PUNCT__
+neither did the administr at the time __PUNCT__
+my __PUNCT__ i wa __PUNCT__ i wa depend on the brief that i wa get from __PUNCT__ from __PUNCT__ from the administr __PUNCT__ and thei were not __PUNCT__ i don't think thei saw the threat as big as it wa __PUNCT__ as __PUNCT__ as __PUNCT__ intens __PUNCT__
+russert __PUNCT__ so when he declar war __PUNCT__ you did not see it as clearli as you said you had __PUNCT__ giuliani __PUNCT__ i saw it __PUNCT__ i read it __PUNCT__ i understood that it wa a problem __PUNCT__
+i never __PUNCT__ i never envis the kind of attack that thei did __PUNCT__
+if you ask me __PUNCT__ well __PUNCT__ what did i envis at the time __PUNCT__ what i envis were the kind of suicid bomb that had gone on in __PUNCT__ in israel __PUNCT__
+i had been brief on that __PUNCT__
+i had been warn about that __PUNCT__
+you might go back and look at what i did at the time __PUNCT__
+i close off the area around the stock exchang __PUNCT__ i close off the area around the __PUNCT__ around __PUNCT__ around the courthous __PUNCT__
+i close the area around the mayor offic __PUNCT__
+i wa veri critic for that becaus thei said __PUNCT__ gee __PUNCT__ i wa try to cut off access to citi hall __PUNCT__
+and i tri to explain __PUNCT__ although you can't give out all thi inform at the time __PUNCT__ that i wa be told to do that by the fbi __PUNCT__ and i wa be told to do that by __PUNCT__ by the __PUNCT__ by the new york polic depart __PUNCT__
+so i knew that level of threat __PUNCT__
+and in __NUM__ when we had our millennium celebr __PUNCT__ i thought there wa go to be a terrorist attack __PUNCT__
+and i think it __PUNCT__ i wa warn there mai be __PUNCT__
+so you __PUNCT__ you __PUNCT__ you __PUNCT__ i made extens prepar to ward off a terrorist attack then __PUNCT__
+but i had no idea of the kind of level of attack that wa in store for us __PUNCT__
+and that wa __PUNCT__ that wa a surpris __PUNCT__
+and i told the commiss that __PUNCT__
+russert __PUNCT__ iraq __PUNCT__
+the iraq studi group __PUNCT__ head by jim baker and lee hamilton __PUNCT__ appoint you as a member __PUNCT__
+and then you quit __PUNCT__
+thi is what newsdai wrote about that __PUNCT__ giuliani membership on an elit __PUNCT__ excus me __PUNCT__
+__PUNCT__ giuliani membership on a elit iraq studi panel came to an abrupt end in the spring of __PUNCT__ __NUM__ __PUNCT__ after he fail to show up for a singl offici meet of the group __PUNCT__ caus the panel top republican to give him a stark choic __PUNCT__ either attend the meet or quit __PUNCT__
+giuliani left the iraq studi group in mai of __PUNCT__ __NUM__ __PUNCT__ after just two month __PUNCT__ walk awai from a chanc to make up for hi lack of foreign polici credenti on the top issu in the __PUNCT__ __NUM__ __PUNCT__ race __PUNCT__ the iraq war __PUNCT__
+he cite __PUNCT__ previou time commit __PUNCT__ in a letter explain hi decis to quit __PUNCT__ and a look at hi schedul suggest why __PUNCT__ the session at time conflict with giuliani lucr speak tour that garner him __MONEY__ million in __NUM__ month __PUNCT__
+show __PUNCT__ up for a pair of two __PUNCT__ dai session that occur dure hi tenur __PUNCT__ both time __PUNCT__ thei conflict with paid public appear __PUNCT__ on hi recent financi disclosur __PUNCT__ form __PUNCT__
+he __PUNCT__ quit the group dure __PUNCT__ the __PUNCT__ busiest stretch in __PUNCT__ __NUM__ __PUNCT__ when he gave __NUM__ speech in a singl month that brought in __MONEY__ million __PUNCT__
+why would you quit a panel look and examin the iraq studi group __PUNCT__ in order to make monei from speech __PUNCT__ giuliani __PUNCT__ well __PUNCT__ that isn't __PUNCT__ that isn't exactli why i did it __PUNCT__
+the realiti is __PUNCT__ it wa a mistak for me to be on the panel __PUNCT__
+i wa a possibl and more than possibl presidenti candid __PUNCT__
+as i start to get involv the first month or so __PUNCT__ i realiz that thi would be a __PUNCT__ a terribl conflict __PUNCT__ that thi report __PUNCT__ the report __PUNCT__ after all __PUNCT__ wa go to get written six month to eight month to nine month later __PUNCT__ right about the time that i might be announc run for presid __PUNCT__
+wasn't sure i wa go to run __PUNCT__ but i wa think veri serious about it at the time __PUNCT__
+and it seem to me that it would be a terribl mistak for me to be part of that panel __PUNCT__
+it would becom veri polit __PUNCT__ it would be veri politic __PUNCT__
+it wa true __PUNCT__ i wa also try to clean up a lot of commit so that i might possibl be abl to run __PUNCT__
+i wa try to get rid of commit that i had alreadi made __PUNCT__
+but if it hadn't been for that conflict __PUNCT__ i probabl would have put asid those commit and done it __PUNCT__
+but just think about it __PUNCT__
+if i had stai with the commiss __PUNCT__ and thei had put out a report __PUNCT__ and here i wa __PUNCT__ you know __PUNCT__ that dai __PUNCT__ the dai after or three week later go to announc for __PUNCT__ for presid __PUNCT__ the entir proceed would get infect by __PUNCT__ thi person is run __PUNCT__
+thi is partisan __PUNCT__
+it mai be partisan __PUNCT__
+hi own opinion is color by that __PUNCT__ their opinion is color by it __PUNCT__
+as i look at the commiss __PUNCT__ i realiz that the peopl that were on the commiss were exclus peopl who had alreadi had a polit career __PUNCT__ and none of them __PUNCT__ at least forese __PUNCT__ wa go to be run for offic __PUNCT__
+so it seem to me there wa a mistak __PUNCT__
+russert __PUNCT__ but you never mention presidenti polit as a reason for leav __PUNCT__
+giuliani __PUNCT__ well __PUNCT__ actual __PUNCT__ i did __PUNCT__
+i mean __PUNCT__ in the discuss that i had intern __PUNCT__ i mention the fact that i __PUNCT__ i might be run for presid and thi would not be a good idea __PUNCT__
+russert __PUNCT__ none of the __PUNCT__
+giuliani __PUNCT__ i didn't __PUNCT__ i didn't mention it __PUNCT__
+russert __PUNCT__ none of the commission rememb that __PUNCT__
+giuliani __PUNCT__ i didn't __PUNCT__ i did have that discuss __PUNCT__
+russert __PUNCT__ with whom __PUNCT__ giuliani __PUNCT__ i had that discuss with jim baker __PUNCT__
+i mention __PUNCT__ i mention that to jim __PUNCT__
+but also i mention the conflict and that i didn't have enough time and that i realli have to clean thing up __PUNCT__
+look __PUNCT__ at the time i wasn't sure i wa run __PUNCT__
+at the time i didn't want to make an announc that i wa run for presid __PUNCT__
+if i had publicli announc i leav becaus i run for presid __PUNCT__ i be run for presid a lot earlier than i actual decid it __PUNCT__
+at the time __PUNCT__ i had a pretti clear idea that i might be do it __PUNCT__ but i wasn't absolut sure __PUNCT__
+so i didn't mention it as the primari reason __PUNCT__ but i did mention it __PUNCT__
+and it wa the thing that wa veri __PUNCT__ veri much on my mind __PUNCT__
+russert __PUNCT__ the on thing that you did continu to particip in wa your busi __PUNCT__
+and i want to ask you some question about that becaus it receiv a lot of discuss over the last few week __PUNCT__ particularli __PUNCT__
+your involv with the countri of qatar __PUNCT__
+giuliani __PUNCT__ right __PUNCT__
+russert __PUNCT__ and here an articl that wa written by the wall street journal __PUNCT__
+__PUNCT__ giuliani could face question about hi busi ti if he win hi parti nomin __PUNCT__
+the qatar contract offer a window into the __PUNCT__ polit __PUNCT__ potenti complic __PUNCT__
+while qatar is a u. __PUNCT__ alli __PUNCT__ it ha drawn scrutini for it involv in the u. __PUNCT__ effort to combat terror __PUNCT__
+in __PUNCT__ __NUM__ __PUNCT__ the fbi went to qatar to arrest al __PUNCT__ qaeda oper khalid sheikh mohammad __PUNCT__ then under indict in new york for a plot to blow up u.s. __PUNCT__ bound jetlin __PUNCT__
+but mr __PUNCT__ mohammad slip awai __PUNCT__ appar tip off by an al __PUNCT__ qaeda sympath in the qatari govern __PUNCT__ u. __PUNCT__ offici told the bipartisan __PUNCT__ __DATE__ __PUNCT__ commiss __PUNCT__
+mr __PUNCT__ mohammad went on to mastermind the __DATE__ __PUNCT__ __NUM__ attack __PUNCT__
+__URL__ ask you thi question __PUNCT__ ar you awar that the interior minist appoint in __NUM__ and reappoint thi year by the emir of qatar is abdullah al __PUNCT__ thani __PUNCT__ the former minist of islam affair and a strict wahhabi muslim who ha been identifi in u. __PUNCT__ press and govern report as a protector of khalid sheikh moham __PUNCT__ ar you __PUNCT__ giuliani __PUNCT__ am i awar of it __PUNCT__ russert __PUNCT__ ye __PUNCT__
+giuliani __PUNCT__ i __PUNCT__ i __PUNCT__ i awar of it now __PUNCT__
+russert __PUNCT__ why would you do busi with peopl who help khalid sheikh mohammad __PUNCT__ giuliani __PUNCT__ the realiti is that qatar is an alli of the unit state __PUNCT__
+there ar a signific number of american troop that ar station in qatar __PUNCT__
+what we did for them and do for them is secur for their facil __PUNCT__
+and thi is a countri that is an alli of our in the __PUNCT__ in the __PUNCT__ in the middl east to the extent that it ha a veri signific number of american troop station there __PUNCT__
+russert __PUNCT__ but the emir of qatar prais hezbollah for their victori over israel in lebanon __PUNCT__
+giuliani __PUNCT__ the __PUNCT__ the emir of qatar also support the unit state __PUNCT__ support the unit state __PUNCT__ is on of our __PUNCT__ on of our friend in the middl east __PUNCT__ is take the grave risk __PUNCT__ the countri of qatar is take the grave risk of have american soldier there __PUNCT__
+when you go to qatar __PUNCT__ when you go to doha __PUNCT__ and i have for secur work __PUNCT__ you see a signific number of young american there __PUNCT__
+if you walk the street of doha __PUNCT__ you can meet them __PUNCT__ you can talk to them __PUNCT__
+thei need secur __PUNCT__ the govern there need secur __PUNCT__
+we deal with the same islam terrorist threat there as we do all over the world __PUNCT__
+it gave my compani a great deal of expertis in islam terror __PUNCT__ which is realli necessari all over the world __PUNCT__
+so the realiti is that we need to develop friend __PUNCT__
+we need to develop friend in the middl east __PUNCT__
+we need __PUNCT__
+russert __PUNCT__ robert __PUNCT__
+giuliani __PUNCT__ __URL__ we need to develop friendship with the emir __PUNCT__
+we need to develop friendship with qatar __PUNCT__ with kuwait __PUNCT__
+these ar countri that we have to get closer to __PUNCT__
+we should trade more with them __PUNCT__ we should be involv more with them as we stand up to islam terror __PUNCT__
+and if thei __PUNCT__ if thei ask an american compani to help them deal with the islam terrorist threat in a more secur wai __PUNCT__ and the peopl involv in thi ar peopl that ar some of the biggest expert on islam terror who had been with the fbi __PUNCT__
+these ar the peopl who ar involv in thi effort __PUNCT__
+thi is a good thing to do __PUNCT__
+thi is a thing that help us kind of work on the other side of how do you remain on offens against islam terrorist __PUNCT__ russert __PUNCT__ robert baer __PUNCT__ a cia offic who had track mohammad khalid said that you ar take monei from the same account that protect khalid sheikh mohammad __PUNCT__ giuliani __PUNCT__ that __PUNCT__
+russert __PUNCT__ __URL__ then went on to mastermind __DATE__ __PUNCT__
+giuliani __PUNCT__ that __PUNCT__ that just total wrong __PUNCT__ and __PUNCT__ and it complet __PUNCT__ it complet distort __PUNCT__
+the relationship is not with ani of those peopl __PUNCT__
+the relationship is with a __PUNCT__ a ministri that doe train __PUNCT__
+russert __PUNCT__ of the __PUNCT__ of the interior __PUNCT__
+giuliani __PUNCT__ no __PUNCT__ it isn't __PUNCT__
+russert __PUNCT__ which __PUNCT__ which __PUNCT__ which al __PUNCT__ thani is the head of __PUNCT__
+giuliani __PUNCT__ it is not __PUNCT__
+the relationship is not like that __PUNCT__
+russert __PUNCT__ no involv with him at all __PUNCT__ giuliani __PUNCT__ we never had ani involv with him at all of ani kind __PUNCT__
+none of the peopl that work with me have __PUNCT__ no involv with him __PUNCT__
+we have had signific involv __PUNCT__ thei have __PUNCT__ with peopl in that govern __PUNCT__
+and the purpos of it again __PUNCT__ tim __PUNCT__ here the purpos of it __PUNCT__ gener speak __PUNCT__ it to secur that countri against attack by islam terrorist __PUNCT__
+thi is a kind of relationship __PUNCT__ i don't just mean for __PUNCT__ for my compani now __PUNCT__
+i out __PUNCT__ i out of the dai __PUNCT__ to __PUNCT__ dai oper of it __PUNCT__
+but thi is the kind of relationship american want to have with middl eastern countri __PUNCT__ work with them to protect them against possibl islam threat __PUNCT__
+thi is a countri that modern __PUNCT__
+it a countri that move in a direct we want it to move in __PUNCT__
+everi singl step like that in the middl east is a danger step __PUNCT__
+you could look at the same kind of thing happen in the emir __PUNCT__
+and i somewhat familiar with that __PUNCT__ also __PUNCT__
+thi is the microcosm of what we need to happen in the rest of the middl east __PUNCT__ countri like the emir and qatar have loosen a lot of the __PUNCT__ lot of the thing that we uncomfort about __PUNCT__
+you and i can have dinner there __PUNCT__
+we can have dinner there __PUNCT__ and we can dress normal __PUNCT__
+there no interfer with the wai in which we want to practic our religion or our custom or whatev __PUNCT__
+thei move in a direct that is a modern direct __PUNCT__
+russert __PUNCT__ but __PUNCT__
+giuliani __PUNCT__ that creat a threat __PUNCT__
+that creat a threat __PUNCT__
+thei did have a bomb a while back __PUNCT__ and what thei want is american expertis __PUNCT__ american help in how to deal with that threat with some peopl who have been __PUNCT__ the peopl in the past __PUNCT__ thei now retir __PUNCT__ who would track down some of these islam terrorist __PUNCT__
+russert __PUNCT__ but it __PUNCT__
+giuliani __PUNCT__ you know __PUNCT__ kind of a veri posit relationship __PUNCT__
+russert __PUNCT__ peopl ar call into question your judgment __PUNCT__
+thei also cite that your law firm __PUNCT__ your law firm did work for hugo chavez __PUNCT__ the head of venezuela __PUNCT__
+thei now __PUNCT__ thei now quit that __PUNCT__ but thei did repres citgo __PUNCT__ which is run by hugo chavez __PUNCT__
+giuliani __PUNCT__ that __PUNCT__ that a stretch __PUNCT__
+russert __PUNCT__ it not __PUNCT__ giuliani __PUNCT__ no __PUNCT__ no __PUNCT__ no __PUNCT__
+russert __PUNCT__ on more __PUNCT__ no __PUNCT__ on more and i go to give you a chanc on thi __PUNCT__
+on more __PUNCT__
+a la vega develop that you work with who had a close partnership with hong kong billionair who wa close to kim jong __PUNCT__ il __PUNCT__
+these ar all accus be made in a veri seriou wai about your busi __PUNCT__
+giuliani __PUNCT__ not seriou __PUNCT__
+right __PUNCT__
+russert __PUNCT__ so in order to deal with all thi __PUNCT__ why not sai to the american peopl __PUNCT__ these ar all my client __PUNCT__
+thi is who i work for __PUNCT__
+giuliani __PUNCT__ ye __PUNCT__ i __PUNCT__
+russert __PUNCT__ __URL__ you can know who i been involv with and who might be try to influenc me if i ever becam presid __PUNCT__
+giuliani __PUNCT__ ok __PUNCT__
+first __PUNCT__ let me see if i can address both __PUNCT__ both of those __PUNCT__
+the relationship you talk about with the __PUNCT__ with the singapor compani __PUNCT__ it a __PUNCT__ it a partnership that thi compani had independ of what we were do for them __PUNCT__ and i think the person involv __PUNCT__ if __PUNCT__ if it correct __PUNCT__ wa a __NUM__ percent owner that had no involv with us __PUNCT__ we never work for __PUNCT__ had noth to do with __PUNCT__
+when you __PUNCT__ when you deal with client and you take on the problem of client and you try to help them __PUNCT__ it mai be that somewher __PUNCT__ someplac thei did someth that wa question or arguabl question __PUNCT__
+these __PUNCT__ these ar thing peopl aren't even convict of __PUNCT__
+so you can't __PUNCT__ you can't vouch for everi singl thing thei did __PUNCT__
+thei thing that __PUNCT__ the thing we have done with them ar honor __PUNCT__ ethic __PUNCT__ us and __PUNCT__ and help __PUNCT__
+russert __PUNCT__ make your list __PUNCT__
+giuliani __PUNCT__ now __PUNCT__ now __PUNCT__
+russert __PUNCT__ __URL__ so peopl know who you __PUNCT__
+giuliani __PUNCT__ ok __PUNCT__ we go to get to that __PUNCT__
+we go to get to that __PUNCT__
+and what wa the earlier on you ask me about __PUNCT__ russert __PUNCT__ hugo chavez __PUNCT__
+giuliani __PUNCT__ law firm did __PUNCT__ never repres hugo chavez __PUNCT__
+thei repres __PUNCT__ wait __PUNCT__ wait __PUNCT__ thei repres an american compani __PUNCT__ citgo __PUNCT__ in texa __PUNCT__ that emploi mayb __NUM__ peopl __PUNCT__ __NUM__ peopl __PUNCT__ that sell gasolin __PUNCT__ need to compli with the law __PUNCT__
+thei repres them just in texa __PUNCT__ and then thei stop repres them __PUNCT__
+and thei __PUNCT__ not a direct represent of hugo chavez __PUNCT__
+that a veri unfair wai to sai it __PUNCT__
+thi is an american compani that __PUNCT__ when you count out all the ga station and everyth els __PUNCT__ the __NUM__ american __PUNCT__
+russert __PUNCT__ but you stop do it __PUNCT__
+giuliani __PUNCT__ onli becaus these thing ar done in a veri __PUNCT__ veri unfair wai __PUNCT__
+not that there anyth wrong with it __PUNCT__
+so you want to know about my client __PUNCT__
+just about everi singl client of giuliani partner __PUNCT__ which is my secur compani __PUNCT__ ha been discuss __PUNCT__ ha been examin __PUNCT__ certainli everi signific on __PUNCT__
+law firm client __PUNCT__ the on that i been involv with __PUNCT__ i think have been discuss __PUNCT__
+i can't sai __PUNCT__
+now __PUNCT__ why don't you just put out a list of all of them __PUNCT__
+becaus you have confidenti agreement with client __PUNCT__
+client come to a law firm __PUNCT__ law firm is a bigger issu here than __PUNCT__
+russert __PUNCT__ but i talk about your __PUNCT__ let talk about your giuliani partner __PUNCT__
+giuliani __PUNCT__ consult firm __PUNCT__ just about everi singl client __PUNCT__
+russert __PUNCT__ why not put out a list to make peopl __PUNCT__
+giuliani __PUNCT__ becaus thei __PUNCT__ becaus thei also have __PUNCT__ in some case __PUNCT__ some have gotten out where there were confidenti agreement __PUNCT__ but thei gotten out for other reason __PUNCT__
+russert __PUNCT__ but you still receiv monei from your firm __PUNCT__
+giuliani __PUNCT__ but i not involv in the dai __PUNCT__ to __PUNCT__ dai oper __PUNCT__
+i an owner of the firm __PUNCT__
+russert __PUNCT__ but you receiv monei __PUNCT__
+if peopl could sign up to __PUNCT__ for your compani in order to influenc you if you becam presid __PUNCT__
+why not just sever ti and put out a list of all your client __PUNCT__ giuliani __PUNCT__ well __PUNCT__ first of all __PUNCT__ i __PUNCT__ i __PUNCT__ i couldn't do that __PUNCT__
+i mean __PUNCT__ i couldn't put out a list of all my client __PUNCT__
+there ar confidenti agreement that surround the relationship that busi have with law firm __PUNCT__ in particular __PUNCT__ in some case with secur firm __PUNCT__
+so i can't do that __PUNCT__
+all __PUNCT__ all i can tell you is the follow __PUNCT__ i can tell you that everi client of gp of ani signific while i wa there __PUNCT__ while i wa involv in the dai __PUNCT__ to __PUNCT__ dai __PUNCT__ dai __PUNCT__ to __PUNCT__ dai oper of it ha been discuss __PUNCT__ signific number of the bracewel __PUNCT__ giuliani client have been discuss __PUNCT__ and the realiti is that none of them amount to anyth other than ethic __PUNCT__ law __PUNCT__ decent work done by both compani __PUNCT__ sometim of the highest standard __PUNCT__ alwai ethic and decent __PUNCT__
+and none of them involv ani kind of conflict of ani kind __PUNCT__
+and as we go along __PUNCT__ we explor more of it __PUNCT__
+russert __PUNCT__ you won't sever your ti __PUNCT__ your financi ti with your compani __PUNCT__
+giuliani __PUNCT__ well __PUNCT__ i an owner __PUNCT__
+i mean __PUNCT__ i __PUNCT__
+russert __PUNCT__ but while you __PUNCT__ while you __PUNCT__
+giuliani __PUNCT__ __URL__ everi __PUNCT__ well __PUNCT__ i sever __PUNCT__ i sever everi tie i can think of __PUNCT__
+i live up to whatev ethic or legal oblig requir __PUNCT__
+we do all the financi disclosur __PUNCT__
+i did a veri complet financi disclosur __PUNCT__ i think it wa in mai __PUNCT__
+i do some more complet financi disclosur __PUNCT__
+but i __PUNCT__ i not go to do more than what is absolut requir __PUNCT__ and we go further than that __PUNCT__
+russert __PUNCT__ you ran for mayor __PUNCT__ you releas your tax return __PUNCT__
+would you do that __PUNCT__ giuliani __PUNCT__ at the right time __PUNCT__
+at the right time we consid do that __PUNCT__
+russert __PUNCT__ what the right time __PUNCT__ giuliani __PUNCT__ the right time is not now __PUNCT__
+the right time is when we get to financi __PUNCT__
+russert __PUNCT__ if you get nomin __PUNCT__ giuliani __PUNCT__ __URL__ we get to financi disclosur __PUNCT__
+we see what is the appropri financi disclosur __PUNCT__
+what have other peopl done __PUNCT__ what ar other peopl go to do __PUNCT__ what is the right standard __PUNCT__ here the thing we will definit do __PUNCT__
+we obvious meet all of the standard that the law requir __PUNCT__ and then we take a look and see should we go beyond that __PUNCT__ is there a reason to go beyond that __PUNCT__ and if there is __PUNCT__ we will __PUNCT__
+the thing i will commit myself to __PUNCT__ obvious __PUNCT__ is meet all the standard __PUNCT__ which ar pretti darn high __PUNCT__
+we will meet all of those __PUNCT__ like everybodi els ha __PUNCT__ and then we take a look at what the right thing to do is __PUNCT__
+russert __PUNCT__ we go to take a quick break __PUNCT__
+more of our discuss with mayor rudi giuliani right after thi __PUNCT__
+__PUNCT__ announc __PUNCT__ russert __PUNCT__ more of our meet the candid __NUM__ seri __PUNCT__
+mayor rudi giuliani __PUNCT__ republican candid for presid __PUNCT__ after thi __PUNCT__
+__PUNCT__ announc __PUNCT__ russert __PUNCT__ and we back with mayor rudi giuliani of new york __PUNCT__
+anoth issu where your judgment ha been question __PUNCT__ bernard kerik __PUNCT__ your polic commission __PUNCT__
+here how the daili new report it __PUNCT__ bernard kerik li __PUNCT__ scheme and sold out the citi __PUNCT__ all under the nose of hi mentor and pal __PUNCT__ presidenti candid rudi giuliani __PUNCT__
+that is the stark portrait paint in the __NUM__ __PUNCT__ count indict unseal in feder court __PUNCT__
+the indict charg kerik with conspiraci __PUNCT__ tax fraud __PUNCT__ make fals statement __PUNCT__ depriv the citi of hi honest servic __PUNCT__
+if convict __PUNCT__ he face up to __NUM__ year in prison __PUNCT__ up to __MONEY__ million in fine __PUNCT__
+the indict start in __PUNCT__ __NUM__ __PUNCT__ after giuliani made kerik correct commission __PUNCT__ continu through __NUM__ when he name him polic commission __PUNCT__ and end in __NUM__ __PUNCT__
+and there ar report __PUNCT__ mr __PUNCT__ mayor __PUNCT__ that accord to mr __PUNCT__ kurianski __PUNCT__ involv in the citi investig unit __PUNCT__ that he brief you and dennison young about bernard kerik and hi relationship with lawrenc rai befor you appoint him polic commission __PUNCT__ and there ar document that demonstr thi __PUNCT__
+mr __PUNCT__ rai __PUNCT__ as you well know __PUNCT__ wa the best man for bernard kerik __PUNCT__ had been indict for hi involv in a compani call interst industri __PUNCT__
+do you recal the warn you were given about mr __PUNCT__ kerik __PUNCT__ giuliani __PUNCT__ i don't __PUNCT__
+i don't __PUNCT__ and __PUNCT__ and i explain it to you __PUNCT__
+first of all __PUNCT__ thi is veri __PUNCT__ you know __PUNCT__ thi is a veri tragic and terribl situat for everybodi __PUNCT__
+now __PUNCT__ the realiti is i made a mistak __PUNCT__
+i made a mistak in not vet him carefulli enough __PUNCT__
+and it my respons __PUNCT__ i should have __PUNCT__
+and i appoint hundr __PUNCT__ thousand of peopl __PUNCT__ to that level __PUNCT__ probabl hundr of peopl __PUNCT__ and i have made few mistak __PUNCT__
+most of them have been correct __PUNCT__ most of them have been outstand peopl __PUNCT__
+most of them have been outstand enough to get except result with their servic __PUNCT__ reduc crime or reduc welfar __PUNCT__ turn around the citi of new york __PUNCT__ prosecut organ crime __PUNCT__ prosecut white collar crime __PUNCT__
+so i think my judgment on appoint turn out to almost alwai be veri good __PUNCT__ with __PUNCT__ unfortun __PUNCT__ some mistak that i made __PUNCT__
+thi is on of them __PUNCT__ and i realli sorri for it and have __PUNCT__ and have learn from it __PUNCT__
+on the other side __PUNCT__ bernard kerik public perform __PUNCT__ mean as correct commission __PUNCT__ as polic commission wa excel __PUNCT__
+he reduc __PUNCT__ help to reduc violenc in the citi jail by __NUM__ percent __PUNCT__
+__PUNCT__ __NUM__ minut __PUNCT__ did a whole piec on how he had __PUNCT__ he and hi team had turn new york citi jail into on of the safest in the countri __PUNCT__
+he reduc crime in new york __PUNCT__
+he wa a hero in everi respect on __DATE__ and in the dai after that __PUNCT__
+i watch him __PUNCT__ we were trap in a build togeth __PUNCT__ i watch him oper __PUNCT__
+there wa thi other thing go on that i should have known about __PUNCT__
+i take respons for it __PUNCT__
+i should have figur it out __PUNCT__ and i learn from it and will not make that mistak in the futur __PUNCT__
+with regard to the __PUNCT__ the __PUNCT__ the brief __PUNCT__ ed __PUNCT__ who __PUNCT__ tragic __PUNCT__ ha pass awai from __PUNCT__ from cancer __PUNCT__ and wa a close friend of mine for mani __PUNCT__ mani year __PUNCT__ we were assist u. __PUNCT__ attornei togeth __PUNCT__ told me that he had __PUNCT__ had some recollect of brief me on thi __PUNCT__
+he also told me that he had clear bernard kerik for the appoint __PUNCT__ as well as the other person that wa go to be appoint __PUNCT__
+and that it mai be that becaus he had clear him that it someth that i don't recal clearli __PUNCT__
+he is __PUNCT__ he wa not sure whether he brief me or not __PUNCT__ he just said he had a note __PUNCT__ here the __PUNCT__ when you sai there evid to suggest thi __PUNCT__ here what it is __PUNCT__ it a __PUNCT__ it a notat of an upcom meet that ha hi initi __PUNCT__ my initi __PUNCT__ dennison young initi and some notat about rai and a compani call interst __PUNCT__ to brief me __PUNCT__
+the question is __PUNCT__ did he or didn't he __PUNCT__ i don't rememb it __PUNCT__
+dennison young __PUNCT__
+russert __PUNCT__ he sai he __PUNCT__ he said he did __PUNCT__
+giuliani __PUNCT__ no __PUNCT__ what he said is __PUNCT__ when he look __PUNCT__ first of all __PUNCT__ he said he didn't rememb it __PUNCT__
+that wa hi first recollect __PUNCT__
+wait __PUNCT__ wait __PUNCT__ thi is import __PUNCT__
+russert __PUNCT__ yep __PUNCT__
+giuliani __PUNCT__ __URL__ get it right __PUNCT__
+he first said that he didn't rememb brief me __PUNCT__
+then when he saw hi note __PUNCT__ the note that i just describ __PUNCT__ he said __PUNCT__ i must have becaus i have these note here __PUNCT__
+we talk about it __PUNCT__
+he think he must have becaus of the note there __PUNCT__
+i don't rememb him do it __PUNCT__
+dennison young doesn't rememb him do it __PUNCT__
+he doe rememb __PUNCT__ howev __PUNCT__ that he did tell us that bernard kerik wa clear to be appoint __PUNCT__
+in other word __PUNCT__ he wa __PUNCT__ he wa __PUNCT__ there wa no ethic reason why he shouldn't be appoint __PUNCT__
+and then we __PUNCT__ we went ahead and did it __PUNCT__
+i think if i had of known that __PUNCT__ i wouldn't have appoint him __PUNCT__
+but that __PUNCT__ i mean __PUNCT__ that __PUNCT__ that __PUNCT__ that the honest recollect that everybodi ha of it __PUNCT__
+russert __PUNCT__ but that wa for policeman commission __PUNCT__
+when you recommend to the presid of the unit state in __NUM__ that bernard kerik be the secretari of homeland secur __PUNCT__
+giuliani __PUNCT__ right __PUNCT__
+russert __PUNCT__ __URL__ number on posit in thi countri to fight terror __PUNCT__ you knew at that time that lawrenc rai had been indict __PUNCT__ had plead guilti __PUNCT__
+there wa a lot of inform avail __PUNCT__
+giuliani __PUNCT__ right __PUNCT__
+i did __PUNCT__ thi is __PUNCT__ that __PUNCT__
+russert __PUNCT__ you knew none of that __PUNCT__ giuliani __PUNCT__ wa it avail __PUNCT__ sure __PUNCT__ it wa avail __PUNCT__
+i didn't find it __PUNCT__ which is what __PUNCT__ why i made a mistak __PUNCT__
+i should check that __PUNCT__ you absolut right __PUNCT__
+i mean __PUNCT__ i __PUNCT__ when that happen __PUNCT__
+russert __PUNCT__ did you place person loyalti over integr __PUNCT__ giuliani __PUNCT__ no __PUNCT__ i did not __PUNCT__
+i didn't __PUNCT__ i would never __PUNCT__ i would never do that __PUNCT__
+i __PUNCT__ what i did __PUNCT__ here what i did do wrong __PUNCT__
+you want __PUNCT__ the mistak wa __PUNCT__ i should have check it out much more carefulli befor he went forward for ani of these posit __PUNCT__
+and i didn't __PUNCT__
+i didn't check it out carefulli enough __PUNCT__
+i should done that __PUNCT__
+i usual do __PUNCT__ and __NUM__ percent of the time i gotten it right __PUNCT__
+gosh __PUNCT__ i made a mistak __PUNCT__
+i __PUNCT__ i learn from it __PUNCT__
+in the futur __PUNCT__ i be much more care about it __PUNCT__
+i should check him out much more carefulli __PUNCT__ and i didn't __PUNCT__
+russert __PUNCT__ mr __PUNCT__ kerik at the time wa also have an affair with judith regan __PUNCT__ hi publish __PUNCT__ and were us an apart that had been donat as a haven for rescu and recoveri worker from the __DATE__ site at world trade center __PUNCT__
+were you awar of that __PUNCT__ giuliani __PUNCT__ first of all __PUNCT__ it an alleg __PUNCT__ so i __PUNCT__ i can't tell you if it true or not __PUNCT__ but the realiti is i wasn't awar of it either wai __PUNCT__
+russert __PUNCT__ in ani wai __PUNCT__ shape or form __PUNCT__ giuliani __PUNCT__ ani wai __PUNCT__ shape or form __PUNCT__
+i had no knowledg of that __PUNCT__ and now i __PUNCT__ russert __PUNCT__ but todai you regret __PUNCT__ you regret __PUNCT__
+giuliani __PUNCT__ that isn't necessarili what i found out __PUNCT__
+what i talk about __PUNCT__ i don't know whether i would found that out or not __PUNCT__ becaus i don't know whether it true or not __PUNCT__ but __PUNCT__
+russert __PUNCT__ you didn't know of hi relationship with judith regan __PUNCT__ giuliani __PUNCT__ i __PUNCT__ i knew she wa hi publish __PUNCT__
+i didn't know the rest of it __PUNCT__
+but the realiti is i should found out the other fact that you talk about __PUNCT__
+some of these fact ar alleg __PUNCT__
+i guess we find out at some point if thei true or not __PUNCT__
+but there were enough fact known where i should not have recommend him __PUNCT__
+i should found them out __PUNCT__
+it wa my fault __PUNCT__
+i take respons for it __PUNCT__
+it wasn't ani of the peopl that work for me __PUNCT__ it wa my fault __PUNCT__
+russert __PUNCT__ that a big misjudg to make when you recommend someon to the presid for that kind of a sensit job __PUNCT__
+giuliani __PUNCT__ well __PUNCT__ look __PUNCT__ i __PUNCT__ i recommend and appoint thousand of peopl over the year __PUNCT__
+so i think the wai you find out is my judgment gener veri good and sometim bad __PUNCT__ like ani other human be is __PUNCT__ what kind of result have i gotten with the peopl that i appoint __PUNCT__ how __PUNCT__ how could i have mostli bad judgment about peopl and have reduc crime in new york by __NUM__ percent __PUNCT__ how can i __PUNCT__ how can i not have pretti good judgment about the peopl who work for me and not been abl to turn around the unit state attornei offic or do the turnaround of new york citi or be success in __PUNCT__ in busi __PUNCT__ so the realiti is __PUNCT__ and i __PUNCT__ i write about thi in my book __PUNCT__ i know my judgment is not go to be __NUM__ percent correct __PUNCT__
+you try to get to __NUM__ percent __PUNCT__
+it been correct enough so that i had a great deal of success __PUNCT__ i been abl to deal with crise veri effect __PUNCT__ and i been abl to turn thing around that other peopl haven't been abl to turn around __PUNCT__
+it doesn't mean that i can't make __PUNCT__ as on of my predecessor __PUNCT__ fiorello laguardia __PUNCT__ us to sai __PUNCT__ he us to sai __PUNCT__ i don't make mani mistak __PUNCT__ but when i make them __PUNCT__ thei big on __PUNCT__
+russert __PUNCT__ also ha been question __PUNCT__ critic about your secur detail for your then __PUNCT__ girlfriend judi nathan __PUNCT__
+here a photograph of her walk her dog be escort by a new york citi policeman __PUNCT__
+thi headlin in the daili new now with __PUNCT__ new question over __PUNCT__ secur __PUNCT__ detail __PUNCT__ for rudi girlfriend __PUNCT__ drive miss judi __PUNCT__
+bernard kerik had said that there had been no polic protect miss nathan until __DATE__ __PUNCT__
+now your folk have told the daili new that __PUNCT__ in fact __PUNCT__ there wa some secur befor that date __PUNCT__
+why wa it appropri for you to give __PUNCT__
+giuliani __PUNCT__ i __PUNCT__ russert __PUNCT__ __URL__ secur to your girlfriend __PUNCT__ giuliani __PUNCT__ well __PUNCT__ tim __PUNCT__ for mani year __PUNCT__ i had to live with secur __PUNCT__
+russert __PUNCT__ thi is not for you __PUNCT__
+thi is for her __PUNCT__
+giuliani __PUNCT__ well __PUNCT__ thi is __PUNCT__ let __PUNCT__ let me explain becaus it ha someth to __PUNCT__ it all ha to do with me __PUNCT__
+all of thi came about becaus of me __PUNCT__ and all of it came about becaus of the work that i did __PUNCT__
+i had secur on and off for over __NUM__ year __PUNCT__
+it not someth i ask for __PUNCT__ it not someth you particularli want __PUNCT__ it not someth she would want __PUNCT__
+thi come about becaus of threat __PUNCT__ and peopl threaten to kill you __PUNCT__ peopl threaten to harm you __PUNCT__
+i had these threat back when i wa the unit state attornei __PUNCT__
+there wa a revel in court of on that had been secret for a long time __PUNCT__
+i don't __PUNCT__ i don't talk __PUNCT__ talk about them __PUNCT__
+i __PUNCT__ thi is a part of my profess also __PUNCT__ evalu threat __PUNCT__
+and the realiti is that my famili ha been subject to threat __PUNCT__ my love on have been subject to threat __PUNCT__ my assist have been subject to threat __PUNCT__
+when thei happen __PUNCT__ i have __PUNCT__ i handl them in a profession wai __PUNCT__
+if thei threat about other peopl __PUNCT__ i make the evalu of it __PUNCT__
+if it a threat about me or somebodi i love or somebodi that close to me __PUNCT__ i turn it over to profession to evalu __PUNCT__
+i __PUNCT__ i been fortun to have veri good profession that have taken care of these threat for me __PUNCT__ for my famili and for my love on __PUNCT__ unit state marshal __PUNCT__ when i wa unit state attornei __PUNCT__ the new york citi polic depart __PUNCT__
+everi singl thing done here wa done base upon the assess of someon els that thi wa necessari __PUNCT__
+thei made the choic __PUNCT__
+my wife __PUNCT__ judith __PUNCT__ honestli __PUNCT__ would prefer not to have to have secur __PUNCT__
+russert __PUNCT__ but let me ask you __PUNCT__
+giuliani __PUNCT__ she doesn't want to __PUNCT__ she doesn't want to live with __PUNCT__ with these threat __PUNCT__
+russert __PUNCT__ but thi __PUNCT__ thi wa when __PUNCT__ thi wa when no on knew she wa your girlfriend __PUNCT__
+thi wa befor __DATE__ __PUNCT__ __NUM__ __PUNCT__
+there were __PUNCT__ no on knew who she wa __PUNCT__
+giuliani __PUNCT__ thei were __PUNCT__ well __PUNCT__ first of all __PUNCT__ that isn't correct __PUNCT__
+secondli __PUNCT__ these were all base upon threat assess made by the new york citi polic depart and all base on their analysi of what wa necessari to protect her life __PUNCT__ my life __PUNCT__ other peopl live __PUNCT__
+russert __PUNCT__ befor it wa known that you were even date her __PUNCT__ there were threat against her __PUNCT__ giuliani __PUNCT__ the threat were __PUNCT__ the threat were after __PUNCT__
+the threat were after __PUNCT__
+russert __PUNCT__ but thi protect wa __PUNCT__
+giuliani __PUNCT__ no it wasn't __PUNCT__
+you got it all __PUNCT__ no __PUNCT__ it wasn't __PUNCT__
+russert __PUNCT__ bernard kerik __PUNCT__ polic commission __PUNCT__ said there wa no protect given befor __DATE__ and that is not a true statement __PUNCT__
+giuliani __PUNCT__ no __PUNCT__ but __PUNCT__ tim __PUNCT__ our __PUNCT__ our relationship becam public in mai of __NUM__ __PUNCT__
+so when he said befor __NUM__ is a whole big portion of __NUM__ where our relationship wa public __PUNCT__ there were threat __PUNCT__ thei had to be respond to __PUNCT__
+the polic depart did everi singl thing that wa done for judith __PUNCT__ or for me __PUNCT__ or for anybodi els close to me __PUNCT__ wa base upon threat assess made by other peopl who ar profession here __PUNCT__ and thei made it veri clear that that __PUNCT__ that that the case __PUNCT__
+and thi is beyond ani doubt the wai it wa done __PUNCT__
+russert __PUNCT__ us that reason __PUNCT__ would it be appropri for a presid to provid secret servic protect for hi mistress __PUNCT__ giuliani __PUNCT__ it would not be appropri to __PUNCT__ to do it for that reason __PUNCT__ tim __PUNCT__ and that isn't __PUNCT__ that __PUNCT__ that isn't the right wai to __PUNCT__ you know __PUNCT__ that isn't the right wai to __PUNCT__ to analyz it or to sai thi __PUNCT__
+the reason it done is becaus somebodi threaten to do harm __PUNCT__ and the peopl who assess it come to the conclus that it is necessari to do thi __PUNCT__
+the realiti is that it all came about becaus of my public posit __PUNCT__ becaus of the fact that when peopl ar public or celebr these kind of threat take place __PUNCT__
+and the new york citi polic depart ha rule __PUNCT__ thei appli the rule __PUNCT__ thei appli them in exactli the same wai as thei alwai appli them __PUNCT__
+i did not make the judgment __PUNCT__
+i didn't ask for it __PUNCT__
+judith didn't particularli want it __PUNCT__ but it wa done becaus thei took the view that it wa seriou and it had to be done thi wai __PUNCT__
+and it wa done the wai thei want to do it __PUNCT__
+in fact __PUNCT__ when you get secur like thi __PUNCT__ and mani peopl think __PUNCT__ you know __PUNCT__ thi is a great conveni __PUNCT__
+and __PUNCT__ and thi is not at all to suggest that i don't have great respect for the procession who do thi __PUNCT__
+honestli __PUNCT__ tim __PUNCT__ i know how it get plai in the media __PUNCT__
+thi is not someth you would want __PUNCT__
+you would not want to have thi secur __PUNCT__ becaus it is come about becaus somebodi ha threaten to do terribl thing to you or your famili and profession have evalu it that wai and feel you need the secur __PUNCT__
+and you sai to them __PUNCT__ can i do thi __PUNCT__ can i do that __PUNCT__ can i go here __PUNCT__ can i go there __PUNCT__ and thei tell you __PUNCT__ no __PUNCT__ you can't __PUNCT__
+so thi is not someth __PUNCT__ i know how it get plai __PUNCT__ but thi is not someth that anybodi ever desir __PUNCT__
+i rememb the first time it happen with me __PUNCT__
+i mean __PUNCT__ the thing that i like to do __PUNCT__ i couldn't __PUNCT__ i couldn't do ani more __PUNCT__ becaus thei would tell me __PUNCT__ you can't do it thi wai __PUNCT__
+you have to do it anoth wai __PUNCT__
+russert __PUNCT__ we go to have to take anoth quick break __PUNCT__
+giuliani __PUNCT__ thank you __PUNCT__
+russert __PUNCT__ more of our discuss with mayor rudi giuliani right after thi __PUNCT__
+__PUNCT__ announc __PUNCT__ russert __PUNCT__ and we back __PUNCT__
+our remain minut with rudi giuliani __PUNCT__
+mike huckabe __PUNCT__ lead the field in iowa __PUNCT__ told the associ press back in the __PUNCT__ 90 that aid patient should be quarantin and that __PUNCT__ homosexu wa aberr __PUNCT__ unnatur and a sin lifestyl __PUNCT__
+what your reaction __PUNCT__ giuliani __PUNCT__ my reaction is that i haven't seen __PUNCT__ on the second of that __PUNCT__ i haven't seen mike comment __PUNCT__
+the first on i think he sai that he didn't have the inform __PUNCT__ that he chang hi mind about it __PUNCT__ it not hi current posit __PUNCT__
+look __PUNCT__ i got enough of my own statement and issu __PUNCT__ as we seen __PUNCT__ that i have to deal with __PUNCT__
+i think mike ha to __PUNCT__
+russert __PUNCT__ but you don't believ homosexu is aberr __PUNCT__
+giuliani __PUNCT__ oh __PUNCT__ no __PUNCT__ no __PUNCT__ no __PUNCT__
+russert __PUNCT__ __URL__ or sin __PUNCT__
+giuliani __PUNCT__ my __PUNCT__ my __PUNCT__ my __PUNCT__ no __PUNCT__ i don't believ it sin __PUNCT__
+my __PUNCT__ my moral view on thi come from the __PUNCT__ you know __PUNCT__ from the cathol church __PUNCT__ and i believ that homosexu __PUNCT__ heterosexu as a __PUNCT__ as a wai that somebodi lead their life is not __PUNCT__ isn't sin __PUNCT__
+it the act __PUNCT__ it the variou act that peopl perform that ar sin __PUNCT__ not the __PUNCT__ not the orient that thei have __PUNCT__
+russert __PUNCT__ the congress is discuss and __PUNCT__
+giuliani __PUNCT__ which includ me __PUNCT__ by the wai __PUNCT__
+i mean __PUNCT__ you know __PUNCT__ unfortun __PUNCT__ i had my own sin that i had to confess and had to deal with and try to overcom and so i veri __PUNCT__ veri empathet with peopl __PUNCT__ and that we all __PUNCT__ we all imperfect human be struggl to __PUNCT__ to try to be better __PUNCT__
+russert __PUNCT__ congress __PUNCT__ the hous ha pass an energi bill which would mandat __NUM__ mile per gallon per automobil by the year __NUM__ __PUNCT__
+would you support that __PUNCT__ giuliani __PUNCT__ that isn't the wai i think it should be done __PUNCT__
+i think what we should be do is develop the altern so it possibl to accomplish that as oppos to just set mandat and not have the support there for expans of hybrid vehicl __PUNCT__ expans of biofuel __PUNCT__ includ ethanol __PUNCT__
+expans __PUNCT__
+russert __PUNCT__ but you against increas mile per gallon __PUNCT__
+giuliani __PUNCT__ i would not do it that wai __PUNCT__ ye __PUNCT__
+i would do it with heavi expans of hybrid vehicl __PUNCT__ which move some of the sourc over to electr __PUNCT__ then deal with clean coal __PUNCT__ nuclear power __PUNCT__ hybrid vehicl __PUNCT__ expans of hydroelectr power __PUNCT__ more oil refineri __PUNCT__ more domest oil __PUNCT__
+all of those thing ar the thing that we should be support __PUNCT__
+and we should be sell that to the __PUNCT__ to the rest of the world __PUNCT__ becaus if __PUNCT__ if __PUNCT__ no matter what we do __PUNCT__ if china and india and these other countri that ar develop don't start to get control on thi __PUNCT__ it go to wipe out ani good that we do __PUNCT__
+so the real emphasi here should be on develop energi independ and creat these altern industri __PUNCT__
+russert __PUNCT__ would you pledg to balanc the budget if you were elect presid __PUNCT__ giuliani __PUNCT__ sure __PUNCT__ i would make the goal __PUNCT__ i would make it a goal of __PUNCT__
+russert __PUNCT__ but not a pledg __PUNCT__
+giuliani __PUNCT__ i don't do pledg __PUNCT__
+i didn't do a pledg on tax __PUNCT__
+i state my intent __PUNCT__
+i said my intent is to lower tax __PUNCT__
+i have a record of lower tax __PUNCT__
+my intent would be to balanc the budget __PUNCT__
+i have a record of eight balanc budget in a citi where we had some seriou econom and financi difficulti at variou time __PUNCT__ and we figur out a wai to balanc the budget __PUNCT__
+so i have a realli good record on that __PUNCT__
+russert __PUNCT__ now __PUNCT__ you have been well known as a new york yanke fan __PUNCT__
+howev __PUNCT__ we have done our research __PUNCT__
+giuliani __PUNCT__ oh __PUNCT__ my good __PUNCT__
+russert __PUNCT__ thi is rudi giuliani as a young man wear a red sox uniform __PUNCT__
+giuliani __PUNCT__ you caught me __PUNCT__
+russert __PUNCT__ you were a red sox fan befor you were a yanke fan __PUNCT__
+giuliani __PUNCT__ i plai on a littl leagu team that wa call the red sox __PUNCT__
+and i go to tell you __PUNCT__ i don't know if you have the pictur __PUNCT__ i also plai on a littl leagu team __PUNCT__ and that wa __PUNCT__ that wa not the tough on then __PUNCT__
+i plai on a littl leagu team call the dodger also __PUNCT__ which caus me a lot __PUNCT__ a lot of grief with my yanke fan __PUNCT__
+but __PUNCT__ but i wa __PUNCT__ it wa on of the happiest part of my life when i plai littl leagu __PUNCT__
+russert __PUNCT__ i won't show you the pictur from the inner circl dinner with the wig on __PUNCT__
+mayor rudi giuliani __PUNCT__ we out of time __PUNCT__
+be safe on the campaign trail __PUNCT__
+giuliani __PUNCT__ thank __PUNCT__ tim __PUNCT__
+thank you __PUNCT__
