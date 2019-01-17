@@ -15,9 +15,11 @@ while True:
     text_vector = vectorizer.transform([text])
 
     num_pred = model.predict(text_vector)[0]
-
-    if num_pred == 1:
+    
+    if num_pred > 0.7:
         print "I think it's good"
-    else:
+    elif num_pred < 0.3:
         print "I think it's bad"
+    else:
+        print "I dunno"
     print
